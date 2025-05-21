@@ -1,0 +1,23 @@
+
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="UTF-8">
+  <title>Einbürgerungstest Quiz</title>
+</head>
+<body>
+  <h1>Einbürgerungstest (Deutsch / Russisch)</h1>
+  <p>Dies ist eine Demo-Web-App. Bitte lokal im Browser öffnen.</p>
+  <script>
+    fetch('assets/questions.json')
+      .then(response => response.json())
+      .then(data => {
+        const q = data[0];
+        document.body.innerHTML += '<h2>' + q.question_de + '<br>' + q.question_ru + '</h2>';
+        for (let i = 0; i < q.answers_de.length; i++) {
+          document.body.innerHTML += '<button>' + q.answers_de[i] + ' / ' + q.answers_ru[i] + '</button><br>';
+        }
+      });
+  </script>
+</body>
+</html>

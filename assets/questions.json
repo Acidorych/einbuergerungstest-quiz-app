@@ -1,0 +1,17 @@
+
+[
+  {
+    "question_de": "Welches Tier ist das Wappentier der Bundesrepublik Deutschland?",
+    "question_ru": "Какое животное является гербом Федеративной Республики Германия?",
+    "answers_de": ["Löwe", "Adler", "Bär", "Wolf"],
+    "answers_ru": ["Лев", "Орел", "Медведь", "Волк"],
+    "correct_index": 1
+  },
+  {
+    "question_de": "Was ist in Deutschland ein 'Kreis'?",
+    "question_ru": "Что в Германии называется 'Kreis'?",
+    "answers_de": ["Ein Verein", "Eine Schule", "Eine Verwaltungseinheit", "Ein Gericht"],
+    "answers_ru": ["Клуб", "Школа", "Административная единица", "Суд"],
+    "correct_index": 2
+  }
+]
