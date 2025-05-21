@@ -1,0 +1,109 @@
+
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="UTF-8">
+  <title>Einbürgerungstest Quiz</title>
+  <style>
+    body {
+      margin: 0;
+      font-family: sans-serif;
+      background-image: linear-gradient(to bottom, black 33%, red 33%, red 66%, gold 66%);
+      background-size: 100% 100%;
+      background-repeat: no-repeat;
+      height: 100vh;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+    }
+    .card {
+      background: white;
+      border-radius: 12px;
+      box-shadow: 0 4px 20px rgba(0,0,0,0.2);
+      padding: 30px;
+      text-align: center;
+      max-width: 500px;
+      width: 90%;
+    }
+    .question {
+      font-size: 18px;
+      margin-bottom: 20px;
+    }
+    .answers button {
+      display: inline-block;
+      margin: 5px;
+      padding: 10px 20px;
+      font-size: 16px;
+      border-radius: 8px;
+      border: 2px solid #ccc;
+      background: #f9f9f9;
+      cursor: pointer;
+      transition: all 0.3s ease;
+    }
+    .answers button.correct {
+      background-color: #c8f7c5;
+      border-color: #27ae60;
+    }
+    .answers button.incorrect {
+      background-color: #f7c5c5;
+      border-color: #e74c3c;
+    }
+    .next-btn {
+      margin-top: 20px;
+      padding: 10px 20px;
+      font-size: 16px;
+      background-color: #555;
+      color: white;
+      border: none;
+      border-radius: 8px;
+      cursor: pointer;
+    }
+  </style>
+</head>
+<body>
+  <div class="card">
+    <h2>Einbürgerungstest (Deutsch / Russisch)</h2>
+    <div class="question" id="questionText"></div>
+    <div class="answers" id="answerButtons"></div>
+    <button class="next-btn" onclick="loadNextQuestion()">Nächste Frage</button>
+  </div>
+
+  <script>
+    let currentIndex = 0;
+    let questions = [];
+
+    fetch('assets/questions.json')
+      .then(response => response.json())
+      .then(data => {
+        questions = data;
+        showQuestion();
+      });
+
+    function showQuestion() {
+      const q = questions[currentIndex];
+      const qText = document.getElementById('questionText');
+      const aButtons = document.getElementById('answerButtons');
+      qText.innerHTML = q.question_de + "<br><i>" + q.question_ru + "</i>";
+      aButtons.innerHTML = "";
+      q.answers_de.forEach((ans, i) => {
+        const btn = document.createElement("button");
+        btn.innerText = ans + " / " + q.answers_ru[i];
+        btn.onclick = () => {
+          if (i === q.correct_index) {
+            btn.classList.add("correct");
+          } else {
+            btn.classList.add("incorrect");
+          }
+          Array.from(aButtons.children).forEach(b => b.disabled = true);
+        };
+        aButtons.appendChild(btn);
+      });
+    }
+
+    function loadNextQuestion() {
+      currentIndex = (currentIndex + 1) % questions.length;
+      showQuestion();
+    }
+  </script>
+</body>
+</html>
