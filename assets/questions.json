@@ -1,0 +1,17 @@
+
+[
+  {
+    "question_de": "Was ist die Hauptstadt von Deutschland?",
+    "question_ru": "Какой город является столицей Германии?",
+    "answers_de": ["Berlin", "München", "Hamburg", "Köln"],
+    "answers_ru": ["Берлин", "Мюнхен", "Гамбург", "Кёльн"],
+    "correct_index": 0
+  },
+  {
+    "question_de": "Welches Tier ist das Wappentier der Bundesrepublik Deutschland?",
+    "question_ru": "Какое животное изображено на гербе Федеративной Республики Германия?",
+    "answers_de": ["Löwe", "Adler", "Bär", "Pferd"],
+    "answers_ru": ["Лев", "Орел", "Медведь", "Лошадь"],
+    "correct_index": 1
+  }
+]
