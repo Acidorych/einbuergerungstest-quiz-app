@@ -1,0 +1,5442 @@
+[
+  {
+    "question_de": "Wann wurde die Bundesrepublik Deutschland gegründet? (#1)",
+    "question_ru": "Когда была основана Федеративная Республика Германия? (№1)",
+    "answers_de": [
+      "1945",
+      "1949",
+      "1955",
+      "1990"
+    ],
+    "answers_ru": [
+      "1945",
+      "1949",
+      "1955",
+      "1990"
+    ],
+    "correct_index": 1
+  },
+  {
+    "question_de": "Was ist das höchste Amt in Deutschland? (#2)",
+    "question_ru": "Какая должность является самой высокой в Германии? (№2)",
+    "answers_de": [
+      "Bundeskanzler",
+      "Bundespräsident",
+      "Bundesminister",
+      "Bundestagspräsident"
+    ],
+    "answers_ru": [
+      "Федеральный канцлер",
+      "Федеральный президент",
+      "Федеральный министр",
+      "Председатель Бундестага"
+    ],
+    "correct_index": 1
+  },
+  {
+    "question_de": "Welches Wahrzeichen ist mit Berlin verbunden? (#3)",
+    "question_ru": "Какой символ связан с Берлином? (№3)",
+    "answers_de": [
+      "Brandenburger Tor",
+      "Kölner Dom",
+      "Hamburger Hafen",
+      "Frauenkirche"
+    ],
+    "answers_ru": [
+      "Бранденбургские ворота",
+      "Кёльнский собор",
+      "Гамбургский порт",
+      "Фрауэнкирхе"
+    ],
+    "correct_index": 0
+  },
+  {
+    "question_de": "Was bedeutet Demokratie für Sie? (#4)",
+    "question_ru": "Что означает демократия для Вас? (№4)",
+    "answers_de": [
+      "Wahlen",
+      "Diktatur",
+      "Königsherrschaft",
+      "Militärregierung"
+    ],
+    "answers_ru": [
+      "Выборы",
+      "Диктатура",
+      "Монархия",
+      "Военное правление"
+    ],
+    "correct_index": 0
+  },
+  {
+    "question_de": "Welche Farben hat die deutsche Flagge? (#5)",
+    "question_ru": "Какие цвета у флага Германии? (№5)",
+    "answers_de": [
+      "Schwarz, Rot, Gold",
+      "Blau, Weiß, Rot",
+      "Grün, Gelb, Rot",
+      "Schwarz, Gelb, Weiß"
+    ],
+    "answers_ru": [
+      "Черный, Красный, Золотой",
+      "Синий, Белый, Красный",
+      "Зеленый, Желтый, Красный",
+      "Черный, Желтый, Белый"
+    ],
+    "correct_index": 0
+  },
+  {
+    "question_de": "Wann wurde die Bundesrepublik Deutschland gegründet? (#6)",
+    "question_ru": "Когда была основана Федеративная Республика Германия? (№6)",
+    "answers_de": [
+      "1945",
+      "1949",
+      "1955",
+      "1990"
+    ],
+    "answers_ru": [
+      "1945",
+      "1949",
+      "1955",
+      "1990"
+    ],
+    "correct_index": 1
+  },
+  {
+    "question_de": "Was ist das höchste Amt in Deutschland? (#7)",
+    "question_ru": "Какая должность является самой высокой в Германии? (№7)",
+    "answers_de": [
+      "Bundeskanzler",
+      "Bundespräsident",
+      "Bundesminister",
+      "Bundestagspräsident"
+    ],
+    "answers_ru": [
+      "Федеральный канцлер",
+      "Федеральный президент",
+      "Федеральный министр",
+      "Председатель Бундестага"
+    ],
+    "correct_index": 1
+  },
+  {
+    "question_de": "Welches Wahrzeichen ist mit Berlin verbunden? (#8)",
+    "question_ru": "Какой символ связан с Берлином? (№8)",
+    "answers_de": [
+      "Brandenburger Tor",
+      "Kölner Dom",
+      "Hamburger Hafen",
+      "Frauenkirche"
+    ],
+    "answers_ru": [
+      "Бранденбургские ворота",
+      "Кёльнский собор",
+      "Гамбургский порт",
+      "Фрауэнкирхе"
+    ],
+    "correct_index": 0
+  },
+  {
+    "question_de": "Was bedeutet Demokratie für Sie? (#9)",
+    "question_ru": "Что означает демократия для Вас? (№9)",
+    "answers_de": [
+      "Wahlen",
+      "Diktatur",
+      "Königsherrschaft",
+      "Militärregierung"
+    ],
+    "answers_ru": [
+      "Выборы",
+      "Диктатура",
+      "Монархия",
+      "Военное правление"
+    ],
+    "correct_index": 0
+  },
+  {
+    "question_de": "Welche Farben hat die deutsche Flagge? (#10)",
+    "question_ru": "Какие цвета у флага Германии? (№10)",
+    "answers_de": [
+      "Schwarz, Rot, Gold",
+      "Blau, Weiß, Rot",
+      "Grün, Gelb, Rot",
+      "Schwarz, Gelb, Weiß"
+    ],
+    "answers_ru": [
+      "Черный, Красный, Золотой",
+      "Синий, Белый, Красный",
+      "Зеленый, Желтый, Красный",
+      "Черный, Желтый, Белый"
+    ],
+    "correct_index": 0
+  },
+  {
+    "question_de": "Wann wurde die Bundesrepublik Deutschland gegründet? (#11)",
+    "question_ru": "Когда была основана Федеративная Республика Германия? (№11)",
+    "answers_de": [
+      "1945",
+      "1949",
+      "1955",
+      "1990"
+    ],
+    "answers_ru": [
+      "1945",
+      "1949",
+      "1955",
+      "1990"
+    ],
+    "correct_index": 1
+  },
+  {
+    "question_de": "Was ist das höchste Amt in Deutschland? (#12)",
+    "question_ru": "Какая должность является самой высокой в Германии? (№12)",
+    "answers_de": [
+      "Bundeskanzler",
+      "Bundespräsident",
+      "Bundesminister",
+      "Bundestagspräsident"
+    ],
+    "answers_ru": [
+      "Федеральный канцлер",
+      "Федеральный президент",
+      "Федеральный министр",
+      "Председатель Бундестага"
+    ],
+    "correct_index": 1
+  },
+  {
+    "question_de": "Welches Wahrzeichen ist mit Berlin verbunden? (#13)",
+    "question_ru": "Какой символ связан с Берлином? (№13)",
+    "answers_de": [
+      "Brandenburger Tor",
+      "Kölner Dom",
+      "Hamburger Hafen",
+      "Frauenkirche"
+    ],
+    "answers_ru": [
+      "Бранденбургские ворота",
+      "Кёльнский собор",
+      "Гамбургский порт",
+      "Фрауэнкирхе"
+    ],
+    "correct_index": 0
+  },
+  {
+    "question_de": "Was bedeutet Demokratie für Sie? (#14)",
+    "question_ru": "Что означает демократия для Вас? (№14)",
+    "answers_de": [
+      "Wahlen",
+      "Diktatur",
+      "Königsherrschaft",
+      "Militärregierung"
+    ],
+    "answers_ru": [
+      "Выборы",
+      "Диктатура",
+      "Монархия",
+      "Военное правление"
+    ],
+    "correct_index": 0
+  },
+  {
+    "question_de": "Welche Farben hat die deutsche Flagge? (#15)",
+    "question_ru": "Какие цвета у флага Германии? (№15)",
+    "answers_de": [
+      "Schwarz, Rot, Gold",
+      "Blau, Weiß, Rot",
+      "Grün, Gelb, Rot",
+      "Schwarz, Gelb, Weiß"
+    ],
+    "answers_ru": [
+      "Черный, Красный, Золотой",
+      "Синий, Белый, Красный",
+      "Зеленый, Желтый, Красный",
+      "Черный, Желтый, Белый"
+    ],
+    "correct_index": 0
+  },
+  {
+    "question_de": "Wann wurde die Bundesrepublik Deutschland gegründet? (#16)",
+    "question_ru": "Когда была основана Федеративная Республика Германия? (№16)",
+    "answers_de": [
+      "1945",
+      "1949",
+      "1955",
+      "1990"
+    ],
+    "answers_ru": [
+      "1945",
+      "1949",
+      "1955",
+      "1990"
+    ],
+    "correct_index": 1
+  },
+  {
+    "question_de": "Was ist das höchste Amt in Deutschland? (#17)",
+    "question_ru": "Какая должность является самой высокой в Германии? (№17)",
+    "answers_de": [
+      "Bundeskanzler",
+      "Bundespräsident",
+      "Bundesminister",
+      "Bundestagspräsident"
+    ],
+    "answers_ru": [
+      "Федеральный канцлер",
+      "Федеральный президент",
+      "Федеральный министр",
+      "Председатель Бундестага"
+    ],
+    "correct_index": 1
+  },
+  {
+    "question_de": "Welches Wahrzeichen ist mit Berlin verbunden? (#18)",
+    "question_ru": "Какой символ связан с Берлином? (№18)",
+    "answers_de": [
+      "Brandenburger Tor",
+      "Kölner Dom",
+      "Hamburger Hafen",
+      "Frauenkirche"
+    ],
+    "answers_ru": [
+      "Бранденбургские ворота",
+      "Кёльнский собор",
+      "Гамбургский порт",
+      "Фрауэнкирхе"
+    ],
+    "correct_index": 0
+  },
+  {
+    "question_de": "Was bedeutet Demokratie für Sie? (#19)",
+    "question_ru": "Что означает демократия для Вас? (№19)",
+    "answers_de": [
+      "Wahlen",
+      "Diktatur",
+      "Königsherrschaft",
+      "Militärregierung"
+    ],
+    "answers_ru": [
+      "Выборы",
+      "Диктатура",
+      "Монархия",
+      "Военное правление"
+    ],
+    "correct_index": 0
+  },
+  {
+    "question_de": "Welche Farben hat die deutsche Flagge? (#20)",
+    "question_ru": "Какие цвета у флага Германии? (№20)",
+    "answers_de": [
+      "Schwarz, Rot, Gold",
+      "Blau, Weiß, Rot",
+      "Grün, Gelb, Rot",
+      "Schwarz, Gelb, Weiß"
+    ],
+    "answers_ru": [
+      "Черный, Красный, Золотой",
+      "Синий, Белый, Красный",
+      "Зеленый, Желтый, Красный",
+      "Черный, Желтый, Белый"
+    ],
+    "correct_index": 0
+  },
+  {
+    "question_de": "Wann wurde die Bundesrepublik Deutschland gegründet? (#21)",
+    "question_ru": "Когда была основана Федеративная Республика Германия? (№21)",
+    "answers_de": [
+      "1945",
+      "1949",
+      "1955",
+      "1990"
+    ],
+    "answers_ru": [
+      "1945",
+      "1949",
+      "1955",
+      "1990"
+    ],
+    "correct_index": 1
+  },
+  {
+    "question_de": "Was ist das höchste Amt in Deutschland? (#22)",
+    "question_ru": "Какая должность является самой высокой в Германии? (№22)",
+    "answers_de": [
+      "Bundeskanzler",
+      "Bundespräsident",
+      "Bundesminister",
+      "Bundestagspräsident"
+    ],
+    "answers_ru": [
+      "Федеральный канцлер",
+      "Федеральный президент",
+      "Федеральный министр",
+      "Председатель Бундестага"
+    ],
+    "correct_index": 1
+  },
+  {
+    "question_de": "Welches Wahrzeichen ist mit Berlin verbunden? (#23)",
+    "question_ru": "Какой символ связан с Берлином? (№23)",
+    "answers_de": [
+      "Brandenburger Tor",
+      "Kölner Dom",
+      "Hamburger Hafen",
+      "Frauenkirche"
+    ],
+    "answers_ru": [
+      "Бранденбургские ворота",
+      "Кёльнский собор",
+      "Гамбургский порт",
+      "Фрауэнкирхе"
+    ],
+    "correct_index": 0
+  },
+  {
+    "question_de": "Was bedeutet Demokratie für Sie? (#24)",
+    "question_ru": "Что означает демократия для Вас? (№24)",
+    "answers_de": [
+      "Wahlen",
+      "Diktatur",
+      "Königsherrschaft",
+      "Militärregierung"
+    ],
+    "answers_ru": [
+      "Выборы",
+      "Диктатура",
+      "Монархия",
+      "Военное правление"
+    ],
+    "correct_index": 0
+  },
+  {
+    "question_de": "Welche Farben hat die deutsche Flagge? (#25)",
+    "question_ru": "Какие цвета у флага Германии? (№25)",
+    "answers_de": [
+      "Schwarz, Rot, Gold",
+      "Blau, Weiß, Rot",
+      "Grün, Gelb, Rot",
+      "Schwarz, Gelb, Weiß"
+    ],
+    "answers_ru": [
+      "Черный, Красный, Золотой",
+      "Синий, Белый, Красный",
+      "Зеленый, Желтый, Красный",
+      "Черный, Желтый, Белый"
+    ],
+    "correct_index": 0
+  },
+  {
+    "question_de": "Wann wurde die Bundesrepublik Deutschland gegründet? (#26)",
+    "question_ru": "Когда была основана Федеративная Республика Германия? (№26)",
+    "answers_de": [
+      "1945",
+      "1949",
+      "1955",
+      "1990"
+    ],
+    "answers_ru": [
+      "1945",
+      "1949",
+      "1955",
+      "1990"
+    ],
+    "correct_index": 1
+  },
+  {
+    "question_de": "Was ist das höchste Amt in Deutschland? (#27)",
+    "question_ru": "Какая должность является самой высокой в Германии? (№27)",
+    "answers_de": [
+      "Bundeskanzler",
+      "Bundespräsident",
+      "Bundesminister",
+      "Bundestagspräsident"
+    ],
+    "answers_ru": [
+      "Федеральный канцлер",
+      "Федеральный президент",
+      "Федеральный министр",
+      "Председатель Бундестага"
+    ],
+    "correct_index": 1
+  },
+  {
+    "question_de": "Welches Wahrzeichen ist mit Berlin verbunden? (#28)",
+    "question_ru": "Какой символ связан с Берлином? (№28)",
+    "answers_de": [
+      "Brandenburger Tor",
+      "Kölner Dom",
+      "Hamburger Hafen",
+      "Frauenkirche"
+    ],
+    "answers_ru": [
+      "Бранденбургские ворота",
+      "Кёльнский собор",
+      "Гамбургский порт",
+      "Фрауэнкирхе"
+    ],
+    "correct_index": 0
+  },
+  {
+    "question_de": "Was bedeutet Demokratie für Sie? (#29)",
+    "question_ru": "Что означает демократия для Вас? (№29)",
+    "answers_de": [
+      "Wahlen",
+      "Diktatur",
+      "Königsherrschaft",
+      "Militärregierung"
+    ],
+    "answers_ru": [
+      "Выборы",
+      "Диктатура",
+      "Монархия",
+      "Военное правление"
+    ],
+    "correct_index": 0
+  },
+  {
+    "question_de": "Welche Farben hat die deutsche Flagge? (#30)",
+    "question_ru": "Какие цвета у флага Германии? (№30)",
+    "answers_de": [
+      "Schwarz, Rot, Gold",
+      "Blau, Weiß, Rot",
+      "Grün, Gelb, Rot",
+      "Schwarz, Gelb, Weiß"
+    ],
+    "answers_ru": [
+      "Черный, Красный, Золотой",
+      "Синий, Белый, Красный",
+      "Зеленый, Желтый, Красный",
+      "Черный, Желтый, Белый"
+    ],
+    "correct_index": 0
+  },
+  {
+    "question_de": "Wann wurde die Bundesrepublik Deutschland gegründet? (#31)",
+    "question_ru": "Когда была основана Федеративная Республика Германия? (№31)",
+    "answers_de": [
+      "1945",
+      "1949",
+      "1955",
+      "1990"
+    ],
+    "answers_ru": [
+      "1945",
+      "1949",
+      "1955",
+      "1990"
+    ],
+    "correct_index": 1
+  },
+  {
+    "question_de": "Was ist das höchste Amt in Deutschland? (#32)",
+    "question_ru": "Какая должность является самой высокой в Германии? (№32)",
+    "answers_de": [
+      "Bundeskanzler",
+      "Bundespräsident",
+      "Bundesminister",
+      "Bundestagspräsident"
+    ],
+    "answers_ru": [
+      "Федеральный канцлер",
+      "Федеральный президент",
+      "Федеральный министр",
+      "Председатель Бундестага"
+    ],
+    "correct_index": 1
+  },
+  {
+    "question_de": "Welches Wahrzeichen ist mit Berlin verbunden? (#33)",
+    "question_ru": "Какой символ связан с Берлином? (№33)",
+    "answers_de": [
+      "Brandenburger Tor",
+      "Kölner Dom",
+      "Hamburger Hafen",
+      "Frauenkirche"
+    ],
+    "answers_ru": [
+      "Бранденбургские ворота",
+      "Кёльнский собор",
+      "Гамбургский порт",
+      "Фрауэнкирхе"
+    ],
+    "correct_index": 0
+  },
+  {
+    "question_de": "Was bedeutet Demokratie für Sie? (#34)",
+    "question_ru": "Что означает демократия для Вас? (№34)",
+    "answers_de": [
+      "Wahlen",
+      "Diktatur",
+      "Königsherrschaft",
+      "Militärregierung"
+    ],
+    "answers_ru": [
+      "Выборы",
+      "Диктатура",
+      "Монархия",
+      "Военное правление"
+    ],
+    "correct_index": 0
+  },
+  {
+    "question_de": "Welche Farben hat die deutsche Flagge? (#35)",
+    "question_ru": "Какие цвета у флага Германии? (№35)",
+    "answers_de": [
+      "Schwarz, Rot, Gold",
+      "Blau, Weiß, Rot",
+      "Grün, Gelb, Rot",
+      "Schwarz, Gelb, Weiß"
+    ],
+    "answers_ru": [
+      "Черный, Красный, Золотой",
+      "Синий, Белый, Красный",
+      "Зеленый, Желтый, Красный",
+      "Черный, Желтый, Белый"
+    ],
+    "correct_index": 0
+  },
+  {
+    "question_de": "Wann wurde die Bundesrepublik Deutschland gegründet? (#36)",
+    "question_ru": "Когда была основана Федеративная Республика Германия? (№36)",
+    "answers_de": [
+      "1945",
+      "1949",
+      "1955",
+      "1990"
+    ],
+    "answers_ru": [
+      "1945",
+      "1949",
+      "1955",
+      "1990"
+    ],
+    "correct_index": 1
+  },
+  {
+    "question_de": "Was ist das höchste Amt in Deutschland? (#37)",
+    "question_ru": "Какая должность является самой высокой в Германии? (№37)",
+    "answers_de": [
+      "Bundeskanzler",
+      "Bundespräsident",
+      "Bundesminister",
+      "Bundestagspräsident"
+    ],
+    "answers_ru": [
+      "Федеральный канцлер",
+      "Федеральный президент",
+      "Федеральный министр",
+      "Председатель Бундестага"
+    ],
+    "correct_index": 1
+  },
+  {
+    "question_de": "Welches Wahrzeichen ist mit Berlin verbunden? (#38)",
+    "question_ru": "Какой символ связан с Берлином? (№38)",
+    "answers_de": [
+      "Brandenburger Tor",
+      "Kölner Dom",
+      "Hamburger Hafen",
+      "Frauenkirche"
+    ],
+    "answers_ru": [
+      "Бранденбургские ворота",
+      "Кёльнский собор",
+      "Гамбургский порт",
+      "Фрауэнкирхе"
+    ],
+    "correct_index": 0
+  },
+  {
+    "question_de": "Was bedeutet Demokratie für Sie? (#39)",
+    "question_ru": "Что означает демократия для Вас? (№39)",
+    "answers_de": [
+      "Wahlen",
+      "Diktatur",
+      "Königsherrschaft",
+      "Militärregierung"
+    ],
+    "answers_ru": [
+      "Выборы",
+      "Диктатура",
+      "Монархия",
+      "Военное правление"
+    ],
+    "correct_index": 0
+  },
+  {
+    "question_de": "Welche Farben hat die deutsche Flagge? (#40)",
+    "question_ru": "Какие цвета у флага Германии? (№40)",
+    "answers_de": [
+      "Schwarz, Rot, Gold",
+      "Blau, Weiß, Rot",
+      "Grün, Gelb, Rot",
+      "Schwarz, Gelb, Weiß"
+    ],
+    "answers_ru": [
+      "Черный, Красный, Золотой",
+      "Синий, Белый, Красный",
+      "Зеленый, Желтый, Красный",
+      "Черный, Желтый, Белый"
+    ],
+    "correct_index": 0
+  },
+  {
+    "question_de": "Wann wurde die Bundesrepublik Deutschland gegründet? (#41)",
+    "question_ru": "Когда была основана Федеративная Республика Германия? (№41)",
+    "answers_de": [
+      "1945",
+      "1949",
+      "1955",
+      "1990"
+    ],
+    "answers_ru": [
+      "1945",
+      "1949",
+      "1955",
+      "1990"
+    ],
+    "correct_index": 1
+  },
+  {
+    "question_de": "Was ist das höchste Amt in Deutschland? (#42)",
+    "question_ru": "Какая должность является самой высокой в Германии? (№42)",
+    "answers_de": [
+      "Bundeskanzler",
+      "Bundespräsident",
+      "Bundesminister",
+      "Bundestagspräsident"
+    ],
+    "answers_ru": [
+      "Федеральный канцлер",
+      "Федеральный президент",
+      "Федеральный министр",
+      "Председатель Бундестага"
+    ],
+    "correct_index": 1
+  },
+  {
+    "question_de": "Welches Wahrzeichen ist mit Berlin verbunden? (#43)",
+    "question_ru": "Какой символ связан с Берлином? (№43)",
+    "answers_de": [
+      "Brandenburger Tor",
+      "Kölner Dom",
+      "Hamburger Hafen",
+      "Frauenkirche"
+    ],
+    "answers_ru": [
+      "Бранденбургские ворота",
+      "Кёльнский собор",
+      "Гамбургский порт",
+      "Фрауэнкирхе"
+    ],
+    "correct_index": 0
+  },
+  {
+    "question_de": "Was bedeutet Demokratie für Sie? (#44)",
+    "question_ru": "Что означает демократия для Вас? (№44)",
+    "answers_de": [
+      "Wahlen",
+      "Diktatur",
+      "Königsherrschaft",
+      "Militärregierung"
+    ],
+    "answers_ru": [
+      "Выборы",
+      "Диктатура",
+      "Монархия",
+      "Военное правление"
+    ],
+    "correct_index": 0
+  },
+  {
+    "question_de": "Welche Farben hat die deutsche Flagge? (#45)",
+    "question_ru": "Какие цвета у флага Германии? (№45)",
+    "answers_de": [
+      "Schwarz, Rot, Gold",
+      "Blau, Weiß, Rot",
+      "Grün, Gelb, Rot",
+      "Schwarz, Gelb, Weiß"
+    ],
+    "answers_ru": [
+      "Черный, Красный, Золотой",
+      "Синий, Белый, Красный",
+      "Зеленый, Желтый, Красный",
+      "Черный, Желтый, Белый"
+    ],
+    "correct_index": 0
+  },
+  {
+    "question_de": "Wann wurde die Bundesrepublik Deutschland gegründet? (#46)",
+    "question_ru": "Когда была основана Федеративная Республика Германия? (№46)",
+    "answers_de": [
+      "1945",
+      "1949",
+      "1955",
+      "1990"
+    ],
+    "answers_ru": [
+      "1945",
+      "1949",
+      "1955",
+      "1990"
+    ],
+    "correct_index": 1
+  },
+  {
+    "question_de": "Was ist das höchste Amt in Deutschland? (#47)",
+    "question_ru": "Какая должность является самой высокой в Германии? (№47)",
+    "answers_de": [
+      "Bundeskanzler",
+      "Bundespräsident",
+      "Bundesminister",
+      "Bundestagspräsident"
+    ],
+    "answers_ru": [
+      "Федеральный канцлер",
+      "Федеральный президент",
+      "Федеральный министр",
+      "Председатель Бундестага"
+    ],
+    "correct_index": 1
+  },
+  {
+    "question_de": "Welches Wahrzeichen ist mit Berlin verbunden? (#48)",
+    "question_ru": "Какой символ связан с Берлином? (№48)",
+    "answers_de": [
+      "Brandenburger Tor",
+      "Kölner Dom",
+      "Hamburger Hafen",
+      "Frauenkirche"
+    ],
+    "answers_ru": [
+      "Бранденбургские ворота",
+      "Кёльнский собор",
+      "Гамбургский порт",
+      "Фрауэнкирхе"
+    ],
+    "correct_index": 0
+  },
+  {
+    "question_de": "Was bedeutet Demokratie für Sie? (#49)",
+    "question_ru": "Что означает демократия для Вас? (№49)",
+    "answers_de": [
+      "Wahlen",
+      "Diktatur",
+      "Königsherrschaft",
+      "Militärregierung"
+    ],
+    "answers_ru": [
+      "Выборы",
+      "Диктатура",
+      "Монархия",
+      "Военное правление"
+    ],
+    "correct_index": 0
+  },
+  {
+    "question_de": "Welche Farben hat die deutsche Flagge? (#50)",
+    "question_ru": "Какие цвета у флага Германии? (№50)",
+    "answers_de": [
+      "Schwarz, Rot, Gold",
+      "Blau, Weiß, Rot",
+      "Grün, Gelb, Rot",
+      "Schwarz, Gelb, Weiß"
+    ],
+    "answers_ru": [
+      "Черный, Красный, Золотой",
+      "Синий, Белый, Красный",
+      "Зеленый, Желтый, Красный",
+      "Черный, Желтый, Белый"
+    ],
+    "correct_index": 0
+  },
+  {
+    "question_de": "Wann wurde die Bundesrepublik Deutschland gegründet? (#51)",
+    "question_ru": "Когда была основана Федеративная Республика Германия? (№51)",
+    "answers_de": [
+      "1945",
+      "1949",
+      "1955",
+      "1990"
+    ],
+    "answers_ru": [
+      "1945",
+      "1949",
+      "1955",
+      "1990"
+    ],
+    "correct_index": 1
+  },
+  {
+    "question_de": "Was ist das höchste Amt in Deutschland? (#52)",
+    "question_ru": "Какая должность является самой высокой в Германии? (№52)",
+    "answers_de": [
+      "Bundeskanzler",
+      "Bundespräsident",
+      "Bundesminister",
+      "Bundestagspräsident"
+    ],
+    "answers_ru": [
+      "Федеральный канцлер",
+      "Федеральный президент",
+      "Федеральный министр",
+      "Председатель Бундестага"
+    ],
+    "correct_index": 1
+  },
+  {
+    "question_de": "Welches Wahrzeichen ist mit Berlin verbunden? (#53)",
+    "question_ru": "Какой символ связан с Берлином? (№53)",
+    "answers_de": [
+      "Brandenburger Tor",
+      "Kölner Dom",
+      "Hamburger Hafen",
+      "Frauenkirche"
+    ],
+    "answers_ru": [
+      "Бранденбургские ворота",
+      "Кёльнский собор",
+      "Гамбургский порт",
+      "Фрауэнкирхе"
+    ],
+    "correct_index": 0
+  },
+  {
+    "question_de": "Was bedeutet Demokratie für Sie? (#54)",
+    "question_ru": "Что означает демократия для Вас? (№54)",
+    "answers_de": [
+      "Wahlen",
+      "Diktatur",
+      "Königsherrschaft",
+      "Militärregierung"
+    ],
+    "answers_ru": [
+      "Выборы",
+      "Диктатура",
+      "Монархия",
+      "Военное правление"
+    ],
+    "correct_index": 0
+  },
+  {
+    "question_de": "Welche Farben hat die deutsche Flagge? (#55)",
+    "question_ru": "Какие цвета у флага Германии? (№55)",
+    "answers_de": [
+      "Schwarz, Rot, Gold",
+      "Blau, Weiß, Rot",
+      "Grün, Gelb, Rot",
+      "Schwarz, Gelb, Weiß"
+    ],
+    "answers_ru": [
+      "Черный, Красный, Золотой",
+      "Синий, Белый, Красный",
+      "Зеленый, Желтый, Красный",
+      "Черный, Желтый, Белый"
+    ],
+    "correct_index": 0
+  },
+  {
+    "question_de": "Wann wurde die Bundesrepublik Deutschland gegründet? (#56)",
+    "question_ru": "Когда была основана Федеративная Республика Германия? (№56)",
+    "answers_de": [
+      "1945",
+      "1949",
+      "1955",
+      "1990"
+    ],
+    "answers_ru": [
+      "1945",
+      "1949",
+      "1955",
+      "1990"
+    ],
+    "correct_index": 1
+  },
+  {
+    "question_de": "Was ist das höchste Amt in Deutschland? (#57)",
+    "question_ru": "Какая должность является самой высокой в Германии? (№57)",
+    "answers_de": [
+      "Bundeskanzler",
+      "Bundespräsident",
+      "Bundesminister",
+      "Bundestagspräsident"
+    ],
+    "answers_ru": [
+      "Федеральный канцлер",
+      "Федеральный президент",
+      "Федеральный министр",
+      "Председатель Бундестага"
+    ],
+    "correct_index": 1
+  },
+  {
+    "question_de": "Welches Wahrzeichen ist mit Berlin verbunden? (#58)",
+    "question_ru": "Какой символ связан с Берлином? (№58)",
+    "answers_de": [
+      "Brandenburger Tor",
+      "Kölner Dom",
+      "Hamburger Hafen",
+      "Frauenkirche"
+    ],
+    "answers_ru": [
+      "Бранденбургские ворота",
+      "Кёльнский собор",
+      "Гамбургский порт",
+      "Фрауэнкирхе"
+    ],
+    "correct_index": 0
+  },
+  {
+    "question_de": "Was bedeutet Demokratie für Sie? (#59)",
+    "question_ru": "Что означает демократия для Вас? (№59)",
+    "answers_de": [
+      "Wahlen",
+      "Diktatur",
+      "Königsherrschaft",
+      "Militärregierung"
+    ],
+    "answers_ru": [
+      "Выборы",
+      "Диктатура",
+      "Монархия",
+      "Военное правление"
+    ],
+    "correct_index": 0
+  },
+  {
+    "question_de": "Welche Farben hat die deutsche Flagge? (#60)",
+    "question_ru": "Какие цвета у флага Германии? (№60)",
+    "answers_de": [
+      "Schwarz, Rot, Gold",
+      "Blau, Weiß, Rot",
+      "Grün, Gelb, Rot",
+      "Schwarz, Gelb, Weiß"
+    ],
+    "answers_ru": [
+      "Черный, Красный, Золотой",
+      "Синий, Белый, Красный",
+      "Зеленый, Желтый, Красный",
+      "Черный, Желтый, Белый"
+    ],
+    "correct_index": 0
+  },
+  {
+    "question_de": "Wann wurde die Bundesrepublik Deutschland gegründet? (#61)",
+    "question_ru": "Когда была основана Федеративная Республика Германия? (№61)",
+    "answers_de": [
+      "1945",
+      "1949",
+      "1955",
+      "1990"
+    ],
+    "answers_ru": [
+      "1945",
+      "1949",
+      "1955",
+      "1990"
+    ],
+    "correct_index": 1
+  },
+  {
+    "question_de": "Was ist das höchste Amt in Deutschland? (#62)",
+    "question_ru": "Какая должность является самой высокой в Германии? (№62)",
+    "answers_de": [
+      "Bundeskanzler",
+      "Bundespräsident",
+      "Bundesminister",
+      "Bundestagspräsident"
+    ],
+    "answers_ru": [
+      "Федеральный канцлер",
+      "Федеральный президент",
+      "Федеральный министр",
+      "Председатель Бундестага"
+    ],
+    "correct_index": 1
+  },
+  {
+    "question_de": "Welches Wahrzeichen ist mit Berlin verbunden? (#63)",
+    "question_ru": "Какой символ связан с Берлином? (№63)",
+    "answers_de": [
+      "Brandenburger Tor",
+      "Kölner Dom",
+      "Hamburger Hafen",
+      "Frauenkirche"
+    ],
+    "answers_ru": [
+      "Бранденбургские ворота",
+      "Кёльнский собор",
+      "Гамбургский порт",
+      "Фрауэнкирхе"
+    ],
+    "correct_index": 0
+  },
+  {
+    "question_de": "Was bedeutet Demokratie für Sie? (#64)",
+    "question_ru": "Что означает демократия для Вас? (№64)",
+    "answers_de": [
+      "Wahlen",
+      "Diktatur",
+      "Königsherrschaft",
+      "Militärregierung"
+    ],
+    "answers_ru": [
+      "Выборы",
+      "Диктатура",
+      "Монархия",
+      "Военное правление"
+    ],
+    "correct_index": 0
+  },
+  {
+    "question_de": "Welche Farben hat die deutsche Flagge? (#65)",
+    "question_ru": "Какие цвета у флага Германии? (№65)",
+    "answers_de": [
+      "Schwarz, Rot, Gold",
+      "Blau, Weiß, Rot",
+      "Grün, Gelb, Rot",
+      "Schwarz, Gelb, Weiß"
+    ],
+    "answers_ru": [
+      "Черный, Красный, Золотой",
+      "Синий, Белый, Красный",
+      "Зеленый, Желтый, Красный",
+      "Черный, Желтый, Белый"
+    ],
+    "correct_index": 0
+  },
+  {
+    "question_de": "Wann wurde die Bundesrepublik Deutschland gegründet? (#66)",
+    "question_ru": "Когда была основана Федеративная Республика Германия? (№66)",
+    "answers_de": [
+      "1945",
+      "1949",
+      "1955",
+      "1990"
+    ],
+    "answers_ru": [
+      "1945",
+      "1949",
+      "1955",
+      "1990"
+    ],
+    "correct_index": 1
+  },
+  {
+    "question_de": "Was ist das höchste Amt in Deutschland? (#67)",
+    "question_ru": "Какая должность является самой высокой в Германии? (№67)",
+    "answers_de": [
+      "Bundeskanzler",
+      "Bundespräsident",
+      "Bundesminister",
+      "Bundestagspräsident"
+    ],
+    "answers_ru": [
+      "Федеральный канцлер",
+      "Федеральный президент",
+      "Федеральный министр",
+      "Председатель Бундестага"
+    ],
+    "correct_index": 1
+  },
+  {
+    "question_de": "Welches Wahrzeichen ist mit Berlin verbunden? (#68)",
+    "question_ru": "Какой символ связан с Берлином? (№68)",
+    "answers_de": [
+      "Brandenburger Tor",
+      "Kölner Dom",
+      "Hamburger Hafen",
+      "Frauenkirche"
+    ],
+    "answers_ru": [
+      "Бранденбургские ворота",
+      "Кёльнский собор",
+      "Гамбургский порт",
+      "Фрауэнкирхе"
+    ],
+    "correct_index": 0
+  },
+  {
+    "question_de": "Was bedeutet Demokratie für Sie? (#69)",
+    "question_ru": "Что означает демократия для Вас? (№69)",
+    "answers_de": [
+      "Wahlen",
+      "Diktatur",
+      "Königsherrschaft",
+      "Militärregierung"
+    ],
+    "answers_ru": [
+      "Выборы",
+      "Диктатура",
+      "Монархия",
+      "Военное правление"
+    ],
+    "correct_index": 0
+  },
+  {
+    "question_de": "Welche Farben hat die deutsche Flagge? (#70)",
+    "question_ru": "Какие цвета у флага Германии? (№70)",
+    "answers_de": [
+      "Schwarz, Rot, Gold",
+      "Blau, Weiß, Rot",
+      "Grün, Gelb, Rot",
+      "Schwarz, Gelb, Weiß"
+    ],
+    "answers_ru": [
+      "Черный, Красный, Золотой",
+      "Синий, Белый, Красный",
+      "Зеленый, Желтый, Красный",
+      "Черный, Желтый, Белый"
+    ],
+    "correct_index": 0
+  },
+  {
+    "question_de": "Wann wurde die Bundesrepublik Deutschland gegründet? (#71)",
+    "question_ru": "Когда была основана Федеративная Республика Германия? (№71)",
+    "answers_de": [
+      "1945",
+      "1949",
+      "1955",
+      "1990"
+    ],
+    "answers_ru": [
+      "1945",
+      "1949",
+      "1955",
+      "1990"
+    ],
+    "correct_index": 1
+  },
+  {
+    "question_de": "Was ist das höchste Amt in Deutschland? (#72)",
+    "question_ru": "Какая должность является самой высокой в Германии? (№72)",
+    "answers_de": [
+      "Bundeskanzler",
+      "Bundespräsident",
+      "Bundesminister",
+      "Bundestagspräsident"
+    ],
+    "answers_ru": [
+      "Федеральный канцлер",
+      "Федеральный президент",
+      "Федеральный министр",
+      "Председатель Бундестага"
+    ],
+    "correct_index": 1
+  },
+  {
+    "question_de": "Welches Wahrzeichen ist mit Berlin verbunden? (#73)",
+    "question_ru": "Какой символ связан с Берлином? (№73)",
+    "answers_de": [
+      "Brandenburger Tor",
+      "Kölner Dom",
+      "Hamburger Hafen",
+      "Frauenkirche"
+    ],
+    "answers_ru": [
+      "Бранденбургские ворота",
+      "Кёльнский собор",
+      "Гамбургский порт",
+      "Фрауэнкирхе"
+    ],
+    "correct_index": 0
+  },
+  {
+    "question_de": "Was bedeutet Demokratie für Sie? (#74)",
+    "question_ru": "Что означает демократия для Вас? (№74)",
+    "answers_de": [
+      "Wahlen",
+      "Diktatur",
+      "Königsherrschaft",
+      "Militärregierung"
+    ],
+    "answers_ru": [
+      "Выборы",
+      "Диктатура",
+      "Монархия",
+      "Военное правление"
+    ],
+    "correct_index": 0
+  },
+  {
+    "question_de": "Welche Farben hat die deutsche Flagge? (#75)",
+    "question_ru": "Какие цвета у флага Германии? (№75)",
+    "answers_de": [
+      "Schwarz, Rot, Gold",
+      "Blau, Weiß, Rot",
+      "Grün, Gelb, Rot",
+      "Schwarz, Gelb, Weiß"
+    ],
+    "answers_ru": [
+      "Черный, Красный, Золотой",
+      "Синий, Белый, Красный",
+      "Зеленый, Желтый, Красный",
+      "Черный, Желтый, Белый"
+    ],
+    "correct_index": 0
+  },
+  {
+    "question_de": "Wann wurde die Bundesrepublik Deutschland gegründet? (#76)",
+    "question_ru": "Когда была основана Федеративная Республика Германия? (№76)",
+    "answers_de": [
+      "1945",
+      "1949",
+      "1955",
+      "1990"
+    ],
+    "answers_ru": [
+      "1945",
+      "1949",
+      "1955",
+      "1990"
+    ],
+    "correct_index": 1
+  },
+  {
+    "question_de": "Was ist das höchste Amt in Deutschland? (#77)",
+    "question_ru": "Какая должность является самой высокой в Германии? (№77)",
+    "answers_de": [
+      "Bundeskanzler",
+      "Bundespräsident",
+      "Bundesminister",
+      "Bundestagspräsident"
+    ],
+    "answers_ru": [
+      "Федеральный канцлер",
+      "Федеральный президент",
+      "Федеральный министр",
+      "Председатель Бундестага"
+    ],
+    "correct_index": 1
+  },
+  {
+    "question_de": "Welches Wahrzeichen ist mit Berlin verbunden? (#78)",
+    "question_ru": "Какой символ связан с Берлином? (№78)",
+    "answers_de": [
+      "Brandenburger Tor",
+      "Kölner Dom",
+      "Hamburger Hafen",
+      "Frauenkirche"
+    ],
+    "answers_ru": [
+      "Бранденбургские ворота",
+      "Кёльнский собор",
+      "Гамбургский порт",
+      "Фрауэнкирхе"
+    ],
+    "correct_index": 0
+  },
+  {
+    "question_de": "Was bedeutet Demokratie für Sie? (#79)",
+    "question_ru": "Что означает демократия для Вас? (№79)",
+    "answers_de": [
+      "Wahlen",
+      "Diktatur",
+      "Königsherrschaft",
+      "Militärregierung"
+    ],
+    "answers_ru": [
+      "Выборы",
+      "Диктатура",
+      "Монархия",
+      "Военное правление"
+    ],
+    "correct_index": 0
+  },
+  {
+    "question_de": "Welche Farben hat die deutsche Flagge? (#80)",
+    "question_ru": "Какие цвета у флага Германии? (№80)",
+    "answers_de": [
+      "Schwarz, Rot, Gold",
+      "Blau, Weiß, Rot",
+      "Grün, Gelb, Rot",
+      "Schwarz, Gelb, Weiß"
+    ],
+    "answers_ru": [
+      "Черный, Красный, Золотой",
+      "Синий, Белый, Красный",
+      "Зеленый, Желтый, Красный",
+      "Черный, Желтый, Белый"
+    ],
+    "correct_index": 0
+  },
+  {
+    "question_de": "Wann wurde die Bundesrepublik Deutschland gegründet? (#81)",
+    "question_ru": "Когда была основана Федеративная Республика Германия? (№81)",
+    "answers_de": [
+      "1945",
+      "1949",
+      "1955",
+      "1990"
+    ],
+    "answers_ru": [
+      "1945",
+      "1949",
+      "1955",
+      "1990"
+    ],
+    "correct_index": 1
+  },
+  {
+    "question_de": "Was ist das höchste Amt in Deutschland? (#82)",
+    "question_ru": "Какая должность является самой высокой в Германии? (№82)",
+    "answers_de": [
+      "Bundeskanzler",
+      "Bundespräsident",
+      "Bundesminister",
+      "Bundestagspräsident"
+    ],
+    "answers_ru": [
+      "Федеральный канцлер",
+      "Федеральный президент",
+      "Федеральный министр",
+      "Председатель Бундестага"
+    ],
+    "correct_index": 1
+  },
+  {
+    "question_de": "Welches Wahrzeichen ist mit Berlin verbunden? (#83)",
+    "question_ru": "Какой символ связан с Берлином? (№83)",
+    "answers_de": [
+      "Brandenburger Tor",
+      "Kölner Dom",
+      "Hamburger Hafen",
+      "Frauenkirche"
+    ],
+    "answers_ru": [
+      "Бранденбургские ворота",
+      "Кёльнский собор",
+      "Гамбургский порт",
+      "Фрауэнкирхе"
+    ],
+    "correct_index": 0
+  },
+  {
+    "question_de": "Was bedeutet Demokratie für Sie? (#84)",
+    "question_ru": "Что означает демократия для Вас? (№84)",
+    "answers_de": [
+      "Wahlen",
+      "Diktatur",
+      "Königsherrschaft",
+      "Militärregierung"
+    ],
+    "answers_ru": [
+      "Выборы",
+      "Диктатура",
+      "Монархия",
+      "Военное правление"
+    ],
+    "correct_index": 0
+  },
+  {
+    "question_de": "Welche Farben hat die deutsche Flagge? (#85)",
+    "question_ru": "Какие цвета у флага Германии? (№85)",
+    "answers_de": [
+      "Schwarz, Rot, Gold",
+      "Blau, Weiß, Rot",
+      "Grün, Gelb, Rot",
+      "Schwarz, Gelb, Weiß"
+    ],
+    "answers_ru": [
+      "Черный, Красный, Золотой",
+      "Синий, Белый, Красный",
+      "Зеленый, Желтый, Красный",
+      "Черный, Желтый, Белый"
+    ],
+    "correct_index": 0
+  },
+  {
+    "question_de": "Wann wurde die Bundesrepublik Deutschland gegründet? (#86)",
+    "question_ru": "Когда была основана Федеративная Республика Германия? (№86)",
+    "answers_de": [
+      "1945",
+      "1949",
+      "1955",
+      "1990"
+    ],
+    "answers_ru": [
+      "1945",
+      "1949",
+      "1955",
+      "1990"
+    ],
+    "correct_index": 1
+  },
+  {
+    "question_de": "Was ist das höchste Amt in Deutschland? (#87)",
+    "question_ru": "Какая должность является самой высокой в Германии? (№87)",
+    "answers_de": [
+      "Bundeskanzler",
+      "Bundespräsident",
+      "Bundesminister",
+      "Bundestagspräsident"
+    ],
+    "answers_ru": [
+      "Федеральный канцлер",
+      "Федеральный президент",
+      "Федеральный министр",
+      "Председатель Бундестага"
+    ],
+    "correct_index": 1
+  },
+  {
+    "question_de": "Welches Wahrzeichen ist mit Berlin verbunden? (#88)",
+    "question_ru": "Какой символ связан с Берлином? (№88)",
+    "answers_de": [
+      "Brandenburger Tor",
+      "Kölner Dom",
+      "Hamburger Hafen",
+      "Frauenkirche"
+    ],
+    "answers_ru": [
+      "Бранденбургские ворота",
+      "Кёльнский собор",
+      "Гамбургский порт",
+      "Фрауэнкирхе"
+    ],
+    "correct_index": 0
+  },
+  {
+    "question_de": "Was bedeutet Demokratie für Sie? (#89)",
+    "question_ru": "Что означает демократия для Вас? (№89)",
+    "answers_de": [
+      "Wahlen",
+      "Diktatur",
+      "Königsherrschaft",
+      "Militärregierung"
+    ],
+    "answers_ru": [
+      "Выборы",
+      "Диктатура",
+      "Монархия",
+      "Военное правление"
+    ],
+    "correct_index": 0
+  },
+  {
+    "question_de": "Welche Farben hat die deutsche Flagge? (#90)",
+    "question_ru": "Какие цвета у флага Германии? (№90)",
+    "answers_de": [
+      "Schwarz, Rot, Gold",
+      "Blau, Weiß, Rot",
+      "Grün, Gelb, Rot",
+      "Schwarz, Gelb, Weiß"
+    ],
+    "answers_ru": [
+      "Черный, Красный, Золотой",
+      "Синий, Белый, Красный",
+      "Зеленый, Желтый, Красный",
+      "Черный, Желтый, Белый"
+    ],
+    "correct_index": 0
+  },
+  {
+    "question_de": "Wann wurde die Bundesrepublik Deutschland gegründet? (#91)",
+    "question_ru": "Когда была основана Федеративная Республика Германия? (№91)",
+    "answers_de": [
+      "1945",
+      "1949",
+      "1955",
+      "1990"
+    ],
+    "answers_ru": [
+      "1945",
+      "1949",
+      "1955",
+      "1990"
+    ],
+    "correct_index": 1
+  },
+  {
+    "question_de": "Was ist das höchste Amt in Deutschland? (#92)",
+    "question_ru": "Какая должность является самой высокой в Германии? (№92)",
+    "answers_de": [
+      "Bundeskanzler",
+      "Bundespräsident",
+      "Bundesminister",
+      "Bundestagspräsident"
+    ],
+    "answers_ru": [
+      "Федеральный канцлер",
+      "Федеральный президент",
+      "Федеральный министр",
+      "Председатель Бундестага"
+    ],
+    "correct_index": 1
+  },
+  {
+    "question_de": "Welches Wahrzeichen ist mit Berlin verbunden? (#93)",
+    "question_ru": "Какой символ связан с Берлином? (№93)",
+    "answers_de": [
+      "Brandenburger Tor",
+      "Kölner Dom",
+      "Hamburger Hafen",
+      "Frauenkirche"
+    ],
+    "answers_ru": [
+      "Бранденбургские ворота",
+      "Кёльнский собор",
+      "Гамбургский порт",
+      "Фрауэнкирхе"
+    ],
+    "correct_index": 0
+  },
+  {
+    "question_de": "Was bedeutet Demokratie für Sie? (#94)",
+    "question_ru": "Что означает демократия для Вас? (№94)",
+    "answers_de": [
+      "Wahlen",
+      "Diktatur",
+      "Königsherrschaft",
+      "Militärregierung"
+    ],
+    "answers_ru": [
+      "Выборы",
+      "Диктатура",
+      "Монархия",
+      "Военное правление"
+    ],
+    "correct_index": 0
+  },
+  {
+    "question_de": "Welche Farben hat die deutsche Flagge? (#95)",
+    "question_ru": "Какие цвета у флага Германии? (№95)",
+    "answers_de": [
+      "Schwarz, Rot, Gold",
+      "Blau, Weiß, Rot",
+      "Grün, Gelb, Rot",
+      "Schwarz, Gelb, Weiß"
+    ],
+    "answers_ru": [
+      "Черный, Красный, Золотой",
+      "Синий, Белый, Красный",
+      "Зеленый, Желтый, Красный",
+      "Черный, Желтый, Белый"
+    ],
+    "correct_index": 0
+  },
+  {
+    "question_de": "Wann wurde die Bundesrepublik Deutschland gegründet? (#96)",
+    "question_ru": "Когда была основана Федеративная Республика Германия? (№96)",
+    "answers_de": [
+      "1945",
+      "1949",
+      "1955",
+      "1990"
+    ],
+    "answers_ru": [
+      "1945",
+      "1949",
+      "1955",
+      "1990"
+    ],
+    "correct_index": 1
+  },
+  {
+    "question_de": "Was ist das höchste Amt in Deutschland? (#97)",
+    "question_ru": "Какая должность является самой высокой в Германии? (№97)",
+    "answers_de": [
+      "Bundeskanzler",
+      "Bundespräsident",
+      "Bundesminister",
+      "Bundestagspräsident"
+    ],
+    "answers_ru": [
+      "Федеральный канцлер",
+      "Федеральный президент",
+      "Федеральный министр",
+      "Председатель Бундестага"
+    ],
+    "correct_index": 1
+  },
+  {
+    "question_de": "Welches Wahrzeichen ist mit Berlin verbunden? (#98)",
+    "question_ru": "Какой символ связан с Берлином? (№98)",
+    "answers_de": [
+      "Brandenburger Tor",
+      "Kölner Dom",
+      "Hamburger Hafen",
+      "Frauenkirche"
+    ],
+    "answers_ru": [
+      "Бранденбургские ворота",
+      "Кёльнский собор",
+      "Гамбургский порт",
+      "Фрауэнкирхе"
+    ],
+    "correct_index": 0
+  },
+  {
+    "question_de": "Was bedeutet Demokratie für Sie? (#99)",
+    "question_ru": "Что означает демократия для Вас? (№99)",
+    "answers_de": [
+      "Wahlen",
+      "Diktatur",
+      "Königsherrschaft",
+      "Militärregierung"
+    ],
+    "answers_ru": [
+      "Выборы",
+      "Диктатура",
+      "Монархия",
+      "Военное правление"
+    ],
+    "correct_index": 0
+  },
+  {
+    "question_de": "Welche Farben hat die deutsche Flagge? (#100)",
+    "question_ru": "Какие цвета у флага Германии? (№100)",
+    "answers_de": [
+      "Schwarz, Rot, Gold",
+      "Blau, Weiß, Rot",
+      "Grün, Gelb, Rot",
+      "Schwarz, Gelb, Weiß"
+    ],
+    "answers_ru": [
+      "Черный, Красный, Золотой",
+      "Синий, Белый, Красный",
+      "Зеленый, Желтый, Красный",
+      "Черный, Желтый, Белый"
+    ],
+    "correct_index": 0
+  },
+  {
+    "question_de": "Wann wurde die Bundesrepublik Deutschland gegründet? (#101)",
+    "question_ru": "Когда была основана Федеративная Республика Германия? (№101)",
+    "answers_de": [
+      "1945",
+      "1949",
+      "1955",
+      "1990"
+    ],
+    "answers_ru": [
+      "1945",
+      "1949",
+      "1955",
+      "1990"
+    ],
+    "correct_index": 1
+  },
+  {
+    "question_de": "Was ist das höchste Amt in Deutschland? (#102)",
+    "question_ru": "Какая должность является самой высокой в Германии? (№102)",
+    "answers_de": [
+      "Bundeskanzler",
+      "Bundespräsident",
+      "Bundesminister",
+      "Bundestagspräsident"
+    ],
+    "answers_ru": [
+      "Федеральный канцлер",
+      "Федеральный президент",
+      "Федеральный министр",
+      "Председатель Бундестага"
+    ],
+    "correct_index": 1
+  },
+  {
+    "question_de": "Welches Wahrzeichen ist mit Berlin verbunden? (#103)",
+    "question_ru": "Какой символ связан с Берлином? (№103)",
+    "answers_de": [
+      "Brandenburger Tor",
+      "Kölner Dom",
+      "Hamburger Hafen",
+      "Frauenkirche"
+    ],
+    "answers_ru": [
+      "Бранденбургские ворота",
+      "Кёльнский собор",
+      "Гамбургский порт",
+      "Фрауэнкирхе"
+    ],
+    "correct_index": 0
+  },
+  {
+    "question_de": "Was bedeutet Demokratie für Sie? (#104)",
+    "question_ru": "Что означает демократия для Вас? (№104)",
+    "answers_de": [
+      "Wahlen",
+      "Diktatur",
+      "Königsherrschaft",
+      "Militärregierung"
+    ],
+    "answers_ru": [
+      "Выборы",
+      "Диктатура",
+      "Монархия",
+      "Военное правление"
+    ],
+    "correct_index": 0
+  },
+  {
+    "question_de": "Welche Farben hat die deutsche Flagge? (#105)",
+    "question_ru": "Какие цвета у флага Германии? (№105)",
+    "answers_de": [
+      "Schwarz, Rot, Gold",
+      "Blau, Weiß, Rot",
+      "Grün, Gelb, Rot",
+      "Schwarz, Gelb, Weiß"
+    ],
+    "answers_ru": [
+      "Черный, Красный, Золотой",
+      "Синий, Белый, Красный",
+      "Зеленый, Желтый, Красный",
+      "Черный, Желтый, Белый"
+    ],
+    "correct_index": 0
+  },
+  {
+    "question_de": "Wann wurde die Bundesrepublik Deutschland gegründet? (#106)",
+    "question_ru": "Когда была основана Федеративная Республика Германия? (№106)",
+    "answers_de": [
+      "1945",
+      "1949",
+      "1955",
+      "1990"
+    ],
+    "answers_ru": [
+      "1945",
+      "1949",
+      "1955",
+      "1990"
+    ],
+    "correct_index": 1
+  },
+  {
+    "question_de": "Was ist das höchste Amt in Deutschland? (#107)",
+    "question_ru": "Какая должность является самой высокой в Германии? (№107)",
+    "answers_de": [
+      "Bundeskanzler",
+      "Bundespräsident",
+      "Bundesminister",
+      "Bundestagspräsident"
+    ],
+    "answers_ru": [
+      "Федеральный канцлер",
+      "Федеральный президент",
+      "Федеральный министр",
+      "Председатель Бундестага"
+    ],
+    "correct_index": 1
+  },
+  {
+    "question_de": "Welches Wahrzeichen ist mit Berlin verbunden? (#108)",
+    "question_ru": "Какой символ связан с Берлином? (№108)",
+    "answers_de": [
+      "Brandenburger Tor",
+      "Kölner Dom",
+      "Hamburger Hafen",
+      "Frauenkirche"
+    ],
+    "answers_ru": [
+      "Бранденбургские ворота",
+      "Кёльнский собор",
+      "Гамбургский порт",
+      "Фрауэнкирхе"
+    ],
+    "correct_index": 0
+  },
+  {
+    "question_de": "Was bedeutet Demokratie für Sie? (#109)",
+    "question_ru": "Что означает демократия для Вас? (№109)",
+    "answers_de": [
+      "Wahlen",
+      "Diktatur",
+      "Königsherrschaft",
+      "Militärregierung"
+    ],
+    "answers_ru": [
+      "Выборы",
+      "Диктатура",
+      "Монархия",
+      "Военное правление"
+    ],
+    "correct_index": 0
+  },
+  {
+    "question_de": "Welche Farben hat die deutsche Flagge? (#110)",
+    "question_ru": "Какие цвета у флага Германии? (№110)",
+    "answers_de": [
+      "Schwarz, Rot, Gold",
+      "Blau, Weiß, Rot",
+      "Grün, Gelb, Rot",
+      "Schwarz, Gelb, Weiß"
+    ],
+    "answers_ru": [
+      "Черный, Красный, Золотой",
+      "Синий, Белый, Красный",
+      "Зеленый, Желтый, Красный",
+      "Черный, Желтый, Белый"
+    ],
+    "correct_index": 0
+  },
+  {
+    "question_de": "Wann wurde die Bundesrepublik Deutschland gegründet? (#111)",
+    "question_ru": "Когда была основана Федеративная Республика Германия? (№111)",
+    "answers_de": [
+      "1945",
+      "1949",
+      "1955",
+      "1990"
+    ],
+    "answers_ru": [
+      "1945",
+      "1949",
+      "1955",
+      "1990"
+    ],
+    "correct_index": 1
+  },
+  {
+    "question_de": "Was ist das höchste Amt in Deutschland? (#112)",
+    "question_ru": "Какая должность является самой высокой в Германии? (№112)",
+    "answers_de": [
+      "Bundeskanzler",
+      "Bundespräsident",
+      "Bundesminister",
+      "Bundestagspräsident"
+    ],
+    "answers_ru": [
+      "Федеральный канцлер",
+      "Федеральный президент",
+      "Федеральный министр",
+      "Председатель Бундестага"
+    ],
+    "correct_index": 1
+  },
+  {
+    "question_de": "Welches Wahrzeichen ist mit Berlin verbunden? (#113)",
+    "question_ru": "Какой символ связан с Берлином? (№113)",
+    "answers_de": [
+      "Brandenburger Tor",
+      "Kölner Dom",
+      "Hamburger Hafen",
+      "Frauenkirche"
+    ],
+    "answers_ru": [
+      "Бранденбургские ворота",
+      "Кёльнский собор",
+      "Гамбургский порт",
+      "Фрауэнкирхе"
+    ],
+    "correct_index": 0
+  },
+  {
+    "question_de": "Was bedeutet Demokratie für Sie? (#114)",
+    "question_ru": "Что означает демократия для Вас? (№114)",
+    "answers_de": [
+      "Wahlen",
+      "Diktatur",
+      "Königsherrschaft",
+      "Militärregierung"
+    ],
+    "answers_ru": [
+      "Выборы",
+      "Диктатура",
+      "Монархия",
+      "Военное правление"
+    ],
+    "correct_index": 0
+  },
+  {
+    "question_de": "Welche Farben hat die deutsche Flagge? (#115)",
+    "question_ru": "Какие цвета у флага Германии? (№115)",
+    "answers_de": [
+      "Schwarz, Rot, Gold",
+      "Blau, Weiß, Rot",
+      "Grün, Gelb, Rot",
+      "Schwarz, Gelb, Weiß"
+    ],
+    "answers_ru": [
+      "Черный, Красный, Золотой",
+      "Синий, Белый, Красный",
+      "Зеленый, Желтый, Красный",
+      "Черный, Желтый, Белый"
+    ],
+    "correct_index": 0
+  },
+  {
+    "question_de": "Wann wurde die Bundesrepublik Deutschland gegründet? (#116)",
+    "question_ru": "Когда была основана Федеративная Республика Германия? (№116)",
+    "answers_de": [
+      "1945",
+      "1949",
+      "1955",
+      "1990"
+    ],
+    "answers_ru": [
+      "1945",
+      "1949",
+      "1955",
+      "1990"
+    ],
+    "correct_index": 1
+  },
+  {
+    "question_de": "Was ist das höchste Amt in Deutschland? (#117)",
+    "question_ru": "Какая должность является самой высокой в Германии? (№117)",
+    "answers_de": [
+      "Bundeskanzler",
+      "Bundespräsident",
+      "Bundesminister",
+      "Bundestagspräsident"
+    ],
+    "answers_ru": [
+      "Федеральный канцлер",
+      "Федеральный президент",
+      "Федеральный министр",
+      "Председатель Бундестага"
+    ],
+    "correct_index": 1
+  },
+  {
+    "question_de": "Welches Wahrzeichen ist mit Berlin verbunden? (#118)",
+    "question_ru": "Какой символ связан с Берлином? (№118)",
+    "answers_de": [
+      "Brandenburger Tor",
+      "Kölner Dom",
+      "Hamburger Hafen",
+      "Frauenkirche"
+    ],
+    "answers_ru": [
+      "Бранденбургские ворота",
+      "Кёльнский собор",
+      "Гамбургский порт",
+      "Фрауэнкирхе"
+    ],
+    "correct_index": 0
+  },
+  {
+    "question_de": "Was bedeutet Demokratie für Sie? (#119)",
+    "question_ru": "Что означает демократия для Вас? (№119)",
+    "answers_de": [
+      "Wahlen",
+      "Diktatur",
+      "Königsherrschaft",
+      "Militärregierung"
+    ],
+    "answers_ru": [
+      "Выборы",
+      "Диктатура",
+      "Монархия",
+      "Военное правление"
+    ],
+    "correct_index": 0
+  },
+  {
+    "question_de": "Welche Farben hat die deutsche Flagge? (#120)",
+    "question_ru": "Какие цвета у флага Германии? (№120)",
+    "answers_de": [
+      "Schwarz, Rot, Gold",
+      "Blau, Weiß, Rot",
+      "Grün, Gelb, Rot",
+      "Schwarz, Gelb, Weiß"
+    ],
+    "answers_ru": [
+      "Черный, Красный, Золотой",
+      "Синий, Белый, Красный",
+      "Зеленый, Желтый, Красный",
+      "Черный, Желтый, Белый"
+    ],
+    "correct_index": 0
+  },
+  {
+    "question_de": "Wann wurde die Bundesrepublik Deutschland gegründet? (#121)",
+    "question_ru": "Когда была основана Федеративная Республика Германия? (№121)",
+    "answers_de": [
+      "1945",
+      "1949",
+      "1955",
+      "1990"
+    ],
+    "answers_ru": [
+      "1945",
+      "1949",
+      "1955",
+      "1990"
+    ],
+    "correct_index": 1
+  },
+  {
+    "question_de": "Was ist das höchste Amt in Deutschland? (#122)",
+    "question_ru": "Какая должность является самой высокой в Германии? (№122)",
+    "answers_de": [
+      "Bundeskanzler",
+      "Bundespräsident",
+      "Bundesminister",
+      "Bundestagspräsident"
+    ],
+    "answers_ru": [
+      "Федеральный канцлер",
+      "Федеральный президент",
+      "Федеральный министр",
+      "Председатель Бундестага"
+    ],
+    "correct_index": 1
+  },
+  {
+    "question_de": "Welches Wahrzeichen ist mit Berlin verbunden? (#123)",
+    "question_ru": "Какой символ связан с Берлином? (№123)",
+    "answers_de": [
+      "Brandenburger Tor",
+      "Kölner Dom",
+      "Hamburger Hafen",
+      "Frauenkirche"
+    ],
+    "answers_ru": [
+      "Бранденбургские ворота",
+      "Кёльнский собор",
+      "Гамбургский порт",
+      "Фрауэнкирхе"
+    ],
+    "correct_index": 0
+  },
+  {
+    "question_de": "Was bedeutet Demokratie für Sie? (#124)",
+    "question_ru": "Что означает демократия для Вас? (№124)",
+    "answers_de": [
+      "Wahlen",
+      "Diktatur",
+      "Königsherrschaft",
+      "Militärregierung"
+    ],
+    "answers_ru": [
+      "Выборы",
+      "Диктатура",
+      "Монархия",
+      "Военное правление"
+    ],
+    "correct_index": 0
+  },
+  {
+    "question_de": "Welche Farben hat die deutsche Flagge? (#125)",
+    "question_ru": "Какие цвета у флага Германии? (№125)",
+    "answers_de": [
+      "Schwarz, Rot, Gold",
+      "Blau, Weiß, Rot",
+      "Grün, Gelb, Rot",
+      "Schwarz, Gelb, Weiß"
+    ],
+    "answers_ru": [
+      "Черный, Красный, Золотой",
+      "Синий, Белый, Красный",
+      "Зеленый, Желтый, Красный",
+      "Черный, Желтый, Белый"
+    ],
+    "correct_index": 0
+  },
+  {
+    "question_de": "Wann wurde die Bundesrepublik Deutschland gegründet? (#126)",
+    "question_ru": "Когда была основана Федеративная Республика Германия? (№126)",
+    "answers_de": [
+      "1945",
+      "1949",
+      "1955",
+      "1990"
+    ],
+    "answers_ru": [
+      "1945",
+      "1949",
+      "1955",
+      "1990"
+    ],
+    "correct_index": 1
+  },
+  {
+    "question_de": "Was ist das höchste Amt in Deutschland? (#127)",
+    "question_ru": "Какая должность является самой высокой в Германии? (№127)",
+    "answers_de": [
+      "Bundeskanzler",
+      "Bundespräsident",
+      "Bundesminister",
+      "Bundestagspräsident"
+    ],
+    "answers_ru": [
+      "Федеральный канцлер",
+      "Федеральный президент",
+      "Федеральный министр",
+      "Председатель Бундестага"
+    ],
+    "correct_index": 1
+  },
+  {
+    "question_de": "Welches Wahrzeichen ist mit Berlin verbunden? (#128)",
+    "question_ru": "Какой символ связан с Берлином? (№128)",
+    "answers_de": [
+      "Brandenburger Tor",
+      "Kölner Dom",
+      "Hamburger Hafen",
+      "Frauenkirche"
+    ],
+    "answers_ru": [
+      "Бранденбургские ворота",
+      "Кёльнский собор",
+      "Гамбургский порт",
+      "Фрауэнкирхе"
+    ],
+    "correct_index": 0
+  },
+  {
+    "question_de": "Was bedeutet Demokratie für Sie? (#129)",
+    "question_ru": "Что означает демократия для Вас? (№129)",
+    "answers_de": [
+      "Wahlen",
+      "Diktatur",
+      "Königsherrschaft",
+      "Militärregierung"
+    ],
+    "answers_ru": [
+      "Выборы",
+      "Диктатура",
+      "Монархия",
+      "Военное правление"
+    ],
+    "correct_index": 0
+  },
+  {
+    "question_de": "Welche Farben hat die deutsche Flagge? (#130)",
+    "question_ru": "Какие цвета у флага Германии? (№130)",
+    "answers_de": [
+      "Schwarz, Rot, Gold",
+      "Blau, Weiß, Rot",
+      "Grün, Gelb, Rot",
+      "Schwarz, Gelb, Weiß"
+    ],
+    "answers_ru": [
+      "Черный, Красный, Золотой",
+      "Синий, Белый, Красный",
+      "Зеленый, Желтый, Красный",
+      "Черный, Желтый, Белый"
+    ],
+    "correct_index": 0
+  },
+  {
+    "question_de": "Wann wurde die Bundesrepublik Deutschland gegründet? (#131)",
+    "question_ru": "Когда была основана Федеративная Республика Германия? (№131)",
+    "answers_de": [
+      "1945",
+      "1949",
+      "1955",
+      "1990"
+    ],
+    "answers_ru": [
+      "1945",
+      "1949",
+      "1955",
+      "1990"
+    ],
+    "correct_index": 1
+  },
+  {
+    "question_de": "Was ist das höchste Amt in Deutschland? (#132)",
+    "question_ru": "Какая должность является самой высокой в Германии? (№132)",
+    "answers_de": [
+      "Bundeskanzler",
+      "Bundespräsident",
+      "Bundesminister",
+      "Bundestagspräsident"
+    ],
+    "answers_ru": [
+      "Федеральный канцлер",
+      "Федеральный президент",
+      "Федеральный министр",
+      "Председатель Бундестага"
+    ],
+    "correct_index": 1
+  },
+  {
+    "question_de": "Welches Wahrzeichen ist mit Berlin verbunden? (#133)",
+    "question_ru": "Какой символ связан с Берлином? (№133)",
+    "answers_de": [
+      "Brandenburger Tor",
+      "Kölner Dom",
+      "Hamburger Hafen",
+      "Frauenkirche"
+    ],
+    "answers_ru": [
+      "Бранденбургские ворота",
+      "Кёльнский собор",
+      "Гамбургский порт",
+      "Фрауэнкирхе"
+    ],
+    "correct_index": 0
+  },
+  {
+    "question_de": "Was bedeutet Demokratie für Sie? (#134)",
+    "question_ru": "Что означает демократия для Вас? (№134)",
+    "answers_de": [
+      "Wahlen",
+      "Diktatur",
+      "Königsherrschaft",
+      "Militärregierung"
+    ],
+    "answers_ru": [
+      "Выборы",
+      "Диктатура",
+      "Монархия",
+      "Военное правление"
+    ],
+    "correct_index": 0
+  },
+  {
+    "question_de": "Welche Farben hat die deutsche Flagge? (#135)",
+    "question_ru": "Какие цвета у флага Германии? (№135)",
+    "answers_de": [
+      "Schwarz, Rot, Gold",
+      "Blau, Weiß, Rot",
+      "Grün, Gelb, Rot",
+      "Schwarz, Gelb, Weiß"
+    ],
+    "answers_ru": [
+      "Черный, Красный, Золотой",
+      "Синий, Белый, Красный",
+      "Зеленый, Желтый, Красный",
+      "Черный, Желтый, Белый"
+    ],
+    "correct_index": 0
+  },
+  {
+    "question_de": "Wann wurde die Bundesrepublik Deutschland gegründet? (#136)",
+    "question_ru": "Когда была основана Федеративная Республика Германия? (№136)",
+    "answers_de": [
+      "1945",
+      "1949",
+      "1955",
+      "1990"
+    ],
+    "answers_ru": [
+      "1945",
+      "1949",
+      "1955",
+      "1990"
+    ],
+    "correct_index": 1
+  },
+  {
+    "question_de": "Was ist das höchste Amt in Deutschland? (#137)",
+    "question_ru": "Какая должность является самой высокой в Германии? (№137)",
+    "answers_de": [
+      "Bundeskanzler",
+      "Bundespräsident",
+      "Bundesminister",
+      "Bundestagspräsident"
+    ],
+    "answers_ru": [
+      "Федеральный канцлер",
+      "Федеральный президент",
+      "Федеральный министр",
+      "Председатель Бундестага"
+    ],
+    "correct_index": 1
+  },
+  {
+    "question_de": "Welches Wahrzeichen ist mit Berlin verbunden? (#138)",
+    "question_ru": "Какой символ связан с Берлином? (№138)",
+    "answers_de": [
+      "Brandenburger Tor",
+      "Kölner Dom",
+      "Hamburger Hafen",
+      "Frauenkirche"
+    ],
+    "answers_ru": [
+      "Бранденбургские ворота",
+      "Кёльнский собор",
+      "Гамбургский порт",
+      "Фрауэнкирхе"
+    ],
+    "correct_index": 0
+  },
+  {
+    "question_de": "Was bedeutet Demokratie für Sie? (#139)",
+    "question_ru": "Что означает демократия для Вас? (№139)",
+    "answers_de": [
+      "Wahlen",
+      "Diktatur",
+      "Königsherrschaft",
+      "Militärregierung"
+    ],
+    "answers_ru": [
+      "Выборы",
+      "Диктатура",
+      "Монархия",
+      "Военное правление"
+    ],
+    "correct_index": 0
+  },
+  {
+    "question_de": "Welche Farben hat die deutsche Flagge? (#140)",
+    "question_ru": "Какие цвета у флага Германии? (№140)",
+    "answers_de": [
+      "Schwarz, Rot, Gold",
+      "Blau, Weiß, Rot",
+      "Grün, Gelb, Rot",
+      "Schwarz, Gelb, Weiß"
+    ],
+    "answers_ru": [
+      "Черный, Красный, Золотой",
+      "Синий, Белый, Красный",
+      "Зеленый, Желтый, Красный",
+      "Черный, Желтый, Белый"
+    ],
+    "correct_index": 0
+  },
+  {
+    "question_de": "Wann wurde die Bundesrepublik Deutschland gegründet? (#141)",
+    "question_ru": "Когда была основана Федеративная Республика Германия? (№141)",
+    "answers_de": [
+      "1945",
+      "1949",
+      "1955",
+      "1990"
+    ],
+    "answers_ru": [
+      "1945",
+      "1949",
+      "1955",
+      "1990"
+    ],
+    "correct_index": 1
+  },
+  {
+    "question_de": "Was ist das höchste Amt in Deutschland? (#142)",
+    "question_ru": "Какая должность является самой высокой в Германии? (№142)",
+    "answers_de": [
+      "Bundeskanzler",
+      "Bundespräsident",
+      "Bundesminister",
+      "Bundestagspräsident"
+    ],
+    "answers_ru": [
+      "Федеральный канцлер",
+      "Федеральный президент",
+      "Федеральный министр",
+      "Председатель Бундестага"
+    ],
+    "correct_index": 1
+  },
+  {
+    "question_de": "Welches Wahrzeichen ist mit Berlin verbunden? (#143)",
+    "question_ru": "Какой символ связан с Берлином? (№143)",
+    "answers_de": [
+      "Brandenburger Tor",
+      "Kölner Dom",
+      "Hamburger Hafen",
+      "Frauenkirche"
+    ],
+    "answers_ru": [
+      "Бранденбургские ворота",
+      "Кёльнский собор",
+      "Гамбургский порт",
+      "Фрауэнкирхе"
+    ],
+    "correct_index": 0
+  },
+  {
+    "question_de": "Was bedeutet Demokratie für Sie? (#144)",
+    "question_ru": "Что означает демократия для Вас? (№144)",
+    "answers_de": [
+      "Wahlen",
+      "Diktatur",
+      "Königsherrschaft",
+      "Militärregierung"
+    ],
+    "answers_ru": [
+      "Выборы",
+      "Диктатура",
+      "Монархия",
+      "Военное правление"
+    ],
+    "correct_index": 0
+  },
+  {
+    "question_de": "Welche Farben hat die deutsche Flagge? (#145)",
+    "question_ru": "Какие цвета у флага Германии? (№145)",
+    "answers_de": [
+      "Schwarz, Rot, Gold",
+      "Blau, Weiß, Rot",
+      "Grün, Gelb, Rot",
+      "Schwarz, Gelb, Weiß"
+    ],
+    "answers_ru": [
+      "Черный, Красный, Золотой",
+      "Синий, Белый, Красный",
+      "Зеленый, Желтый, Красный",
+      "Черный, Желтый, Белый"
+    ],
+    "correct_index": 0
+  },
+  {
+    "question_de": "Wann wurde die Bundesrepublik Deutschland gegründet? (#146)",
+    "question_ru": "Когда была основана Федеративная Республика Германия? (№146)",
+    "answers_de": [
+      "1945",
+      "1949",
+      "1955",
+      "1990"
+    ],
+    "answers_ru": [
+      "1945",
+      "1949",
+      "1955",
+      "1990"
+    ],
+    "correct_index": 1
+  },
+  {
+    "question_de": "Was ist das höchste Amt in Deutschland? (#147)",
+    "question_ru": "Какая должность является самой высокой в Германии? (№147)",
+    "answers_de": [
+      "Bundeskanzler",
+      "Bundespräsident",
+      "Bundesminister",
+      "Bundestagspräsident"
+    ],
+    "answers_ru": [
+      "Федеральный канцлер",
+      "Федеральный президент",
+      "Федеральный министр",
+      "Председатель Бундестага"
+    ],
+    "correct_index": 1
+  },
+  {
+    "question_de": "Welches Wahrzeichen ist mit Berlin verbunden? (#148)",
+    "question_ru": "Какой символ связан с Берлином? (№148)",
+    "answers_de": [
+      "Brandenburger Tor",
+      "Kölner Dom",
+      "Hamburger Hafen",
+      "Frauenkirche"
+    ],
+    "answers_ru": [
+      "Бранденбургские ворота",
+      "Кёльнский собор",
+      "Гамбургский порт",
+      "Фрауэнкирхе"
+    ],
+    "correct_index": 0
+  },
+  {
+    "question_de": "Was bedeutet Demokratie für Sie? (#149)",
+    "question_ru": "Что означает демократия для Вас? (№149)",
+    "answers_de": [
+      "Wahlen",
+      "Diktatur",
+      "Königsherrschaft",
+      "Militärregierung"
+    ],
+    "answers_ru": [
+      "Выборы",
+      "Диктатура",
+      "Монархия",
+      "Военное правление"
+    ],
+    "correct_index": 0
+  },
+  {
+    "question_de": "Welche Farben hat die deutsche Flagge? (#150)",
+    "question_ru": "Какие цвета у флага Германии? (№150)",
+    "answers_de": [
+      "Schwarz, Rot, Gold",
+      "Blau, Weiß, Rot",
+      "Grün, Gelb, Rot",
+      "Schwarz, Gelb, Weiß"
+    ],
+    "answers_ru": [
+      "Черный, Красный, Золотой",
+      "Синий, Белый, Красный",
+      "Зеленый, Желтый, Красный",
+      "Черный, Желтый, Белый"
+    ],
+    "correct_index": 0
+  },
+  {
+    "question_de": "Wann wurde die Bundesrepublik Deutschland gegründet? (#151)",
+    "question_ru": "Когда была основана Федеративная Республика Германия? (№151)",
+    "answers_de": [
+      "1945",
+      "1949",
+      "1955",
+      "1990"
+    ],
+    "answers_ru": [
+      "1945",
+      "1949",
+      "1955",
+      "1990"
+    ],
+    "correct_index": 1
+  },
+  {
+    "question_de": "Was ist das höchste Amt in Deutschland? (#152)",
+    "question_ru": "Какая должность является самой высокой в Германии? (№152)",
+    "answers_de": [
+      "Bundeskanzler",
+      "Bundespräsident",
+      "Bundesminister",
+      "Bundestagspräsident"
+    ],
+    "answers_ru": [
+      "Федеральный канцлер",
+      "Федеральный президент",
+      "Федеральный министр",
+      "Председатель Бундестага"
+    ],
+    "correct_index": 1
+  },
+  {
+    "question_de": "Welches Wahrzeichen ist mit Berlin verbunden? (#153)",
+    "question_ru": "Какой символ связан с Берлином? (№153)",
+    "answers_de": [
+      "Brandenburger Tor",
+      "Kölner Dom",
+      "Hamburger Hafen",
+      "Frauenkirche"
+    ],
+    "answers_ru": [
+      "Бранденбургские ворота",
+      "Кёльнский собор",
+      "Гамбургский порт",
+      "Фрауэнкирхе"
+    ],
+    "correct_index": 0
+  },
+  {
+    "question_de": "Was bedeutet Demokratie für Sie? (#154)",
+    "question_ru": "Что означает демократия для Вас? (№154)",
+    "answers_de": [
+      "Wahlen",
+      "Diktatur",
+      "Königsherrschaft",
+      "Militärregierung"
+    ],
+    "answers_ru": [
+      "Выборы",
+      "Диктатура",
+      "Монархия",
+      "Военное правление"
+    ],
+    "correct_index": 0
+  },
+  {
+    "question_de": "Welche Farben hat die deutsche Flagge? (#155)",
+    "question_ru": "Какие цвета у флага Германии? (№155)",
+    "answers_de": [
+      "Schwarz, Rot, Gold",
+      "Blau, Weiß, Rot",
+      "Grün, Gelb, Rot",
+      "Schwarz, Gelb, Weiß"
+    ],
+    "answers_ru": [
+      "Черный, Красный, Золотой",
+      "Синий, Белый, Красный",
+      "Зеленый, Желтый, Красный",
+      "Черный, Желтый, Белый"
+    ],
+    "correct_index": 0
+  },
+  {
+    "question_de": "Wann wurde die Bundesrepublik Deutschland gegründet? (#156)",
+    "question_ru": "Когда была основана Федеративная Республика Германия? (№156)",
+    "answers_de": [
+      "1945",
+      "1949",
+      "1955",
+      "1990"
+    ],
+    "answers_ru": [
+      "1945",
+      "1949",
+      "1955",
+      "1990"
+    ],
+    "correct_index": 1
+  },
+  {
+    "question_de": "Was ist das höchste Amt in Deutschland? (#157)",
+    "question_ru": "Какая должность является самой высокой в Германии? (№157)",
+    "answers_de": [
+      "Bundeskanzler",
+      "Bundespräsident",
+      "Bundesminister",
+      "Bundestagspräsident"
+    ],
+    "answers_ru": [
+      "Федеральный канцлер",
+      "Федеральный президент",
+      "Федеральный министр",
+      "Председатель Бундестага"
+    ],
+    "correct_index": 1
+  },
+  {
+    "question_de": "Welches Wahrzeichen ist mit Berlin verbunden? (#158)",
+    "question_ru": "Какой символ связан с Берлином? (№158)",
+    "answers_de": [
+      "Brandenburger Tor",
+      "Kölner Dom",
+      "Hamburger Hafen",
+      "Frauenkirche"
+    ],
+    "answers_ru": [
+      "Бранденбургские ворота",
+      "Кёльнский собор",
+      "Гамбургский порт",
+      "Фрауэнкирхе"
+    ],
+    "correct_index": 0
+  },
+  {
+    "question_de": "Was bedeutet Demokratie für Sie? (#159)",
+    "question_ru": "Что означает демократия для Вас? (№159)",
+    "answers_de": [
+      "Wahlen",
+      "Diktatur",
+      "Königsherrschaft",
+      "Militärregierung"
+    ],
+    "answers_ru": [
+      "Выборы",
+      "Диктатура",
+      "Монархия",
+      "Военное правление"
+    ],
+    "correct_index": 0
+  },
+  {
+    "question_de": "Welche Farben hat die deutsche Flagge? (#160)",
+    "question_ru": "Какие цвета у флага Германии? (№160)",
+    "answers_de": [
+      "Schwarz, Rot, Gold",
+      "Blau, Weiß, Rot",
+      "Grün, Gelb, Rot",
+      "Schwarz, Gelb, Weiß"
+    ],
+    "answers_ru": [
+      "Черный, Красный, Золотой",
+      "Синий, Белый, Красный",
+      "Зеленый, Желтый, Красный",
+      "Черный, Желтый, Белый"
+    ],
+    "correct_index": 0
+  },
+  {
+    "question_de": "Wann wurde die Bundesrepublik Deutschland gegründet? (#161)",
+    "question_ru": "Когда была основана Федеративная Республика Германия? (№161)",
+    "answers_de": [
+      "1945",
+      "1949",
+      "1955",
+      "1990"
+    ],
+    "answers_ru": [
+      "1945",
+      "1949",
+      "1955",
+      "1990"
+    ],
+    "correct_index": 1
+  },
+  {
+    "question_de": "Was ist das höchste Amt in Deutschland? (#162)",
+    "question_ru": "Какая должность является самой высокой в Германии? (№162)",
+    "answers_de": [
+      "Bundeskanzler",
+      "Bundespräsident",
+      "Bundesminister",
+      "Bundestagspräsident"
+    ],
+    "answers_ru": [
+      "Федеральный канцлер",
+      "Федеральный президент",
+      "Федеральный министр",
+      "Председатель Бундестага"
+    ],
+    "correct_index": 1
+  },
+  {
+    "question_de": "Welches Wahrzeichen ist mit Berlin verbunden? (#163)",
+    "question_ru": "Какой символ связан с Берлином? (№163)",
+    "answers_de": [
+      "Brandenburger Tor",
+      "Kölner Dom",
+      "Hamburger Hafen",
+      "Frauenkirche"
+    ],
+    "answers_ru": [
+      "Бранденбургские ворота",
+      "Кёльнский собор",
+      "Гамбургский порт",
+      "Фрауэнкирхе"
+    ],
+    "correct_index": 0
+  },
+  {
+    "question_de": "Was bedeutet Demokratie für Sie? (#164)",
+    "question_ru": "Что означает демократия для Вас? (№164)",
+    "answers_de": [
+      "Wahlen",
+      "Diktatur",
+      "Königsherrschaft",
+      "Militärregierung"
+    ],
+    "answers_ru": [
+      "Выборы",
+      "Диктатура",
+      "Монархия",
+      "Военное правление"
+    ],
+    "correct_index": 0
+  },
+  {
+    "question_de": "Welche Farben hat die deutsche Flagge? (#165)",
+    "question_ru": "Какие цвета у флага Германии? (№165)",
+    "answers_de": [
+      "Schwarz, Rot, Gold",
+      "Blau, Weiß, Rot",
+      "Grün, Gelb, Rot",
+      "Schwarz, Gelb, Weiß"
+    ],
+    "answers_ru": [
+      "Черный, Красный, Золотой",
+      "Синий, Белый, Красный",
+      "Зеленый, Желтый, Красный",
+      "Черный, Желтый, Белый"
+    ],
+    "correct_index": 0
+  },
+  {
+    "question_de": "Wann wurde die Bundesrepublik Deutschland gegründet? (#166)",
+    "question_ru": "Когда была основана Федеративная Республика Германия? (№166)",
+    "answers_de": [
+      "1945",
+      "1949",
+      "1955",
+      "1990"
+    ],
+    "answers_ru": [
+      "1945",
+      "1949",
+      "1955",
+      "1990"
+    ],
+    "correct_index": 1
+  },
+  {
+    "question_de": "Was ist das höchste Amt in Deutschland? (#167)",
+    "question_ru": "Какая должность является самой высокой в Германии? (№167)",
+    "answers_de": [
+      "Bundeskanzler",
+      "Bundespräsident",
+      "Bundesminister",
+      "Bundestagspräsident"
+    ],
+    "answers_ru": [
+      "Федеральный канцлер",
+      "Федеральный президент",
+      "Федеральный министр",
+      "Председатель Бундестага"
+    ],
+    "correct_index": 1
+  },
+  {
+    "question_de": "Welches Wahrzeichen ist mit Berlin verbunden? (#168)",
+    "question_ru": "Какой символ связан с Берлином? (№168)",
+    "answers_de": [
+      "Brandenburger Tor",
+      "Kölner Dom",
+      "Hamburger Hafen",
+      "Frauenkirche"
+    ],
+    "answers_ru": [
+      "Бранденбургские ворота",
+      "Кёльнский собор",
+      "Гамбургский порт",
+      "Фрауэнкирхе"
+    ],
+    "correct_index": 0
+  },
+  {
+    "question_de": "Was bedeutet Demokratie für Sie? (#169)",
+    "question_ru": "Что означает демократия для Вас? (№169)",
+    "answers_de": [
+      "Wahlen",
+      "Diktatur",
+      "Königsherrschaft",
+      "Militärregierung"
+    ],
+    "answers_ru": [
+      "Выборы",
+      "Диктатура",
+      "Монархия",
+      "Военное правление"
+    ],
+    "correct_index": 0
+  },
+  {
+    "question_de": "Welche Farben hat die deutsche Flagge? (#170)",
+    "question_ru": "Какие цвета у флага Германии? (№170)",
+    "answers_de": [
+      "Schwarz, Rot, Gold",
+      "Blau, Weiß, Rot",
+      "Grün, Gelb, Rot",
+      "Schwarz, Gelb, Weiß"
+    ],
+    "answers_ru": [
+      "Черный, Красный, Золотой",
+      "Синий, Белый, Красный",
+      "Зеленый, Желтый, Красный",
+      "Черный, Желтый, Белый"
+    ],
+    "correct_index": 0
+  },
+  {
+    "question_de": "Wann wurde die Bundesrepublik Deutschland gegründet? (#171)",
+    "question_ru": "Когда была основана Федеративная Республика Германия? (№171)",
+    "answers_de": [
+      "1945",
+      "1949",
+      "1955",
+      "1990"
+    ],
+    "answers_ru": [
+      "1945",
+      "1949",
+      "1955",
+      "1990"
+    ],
+    "correct_index": 1
+  },
+  {
+    "question_de": "Was ist das höchste Amt in Deutschland? (#172)",
+    "question_ru": "Какая должность является самой высокой в Германии? (№172)",
+    "answers_de": [
+      "Bundeskanzler",
+      "Bundespräsident",
+      "Bundesminister",
+      "Bundestagspräsident"
+    ],
+    "answers_ru": [
+      "Федеральный канцлер",
+      "Федеральный президент",
+      "Федеральный министр",
+      "Председатель Бундестага"
+    ],
+    "correct_index": 1
+  },
+  {
+    "question_de": "Welches Wahrzeichen ist mit Berlin verbunden? (#173)",
+    "question_ru": "Какой символ связан с Берлином? (№173)",
+    "answers_de": [
+      "Brandenburger Tor",
+      "Kölner Dom",
+      "Hamburger Hafen",
+      "Frauenkirche"
+    ],
+    "answers_ru": [
+      "Бранденбургские ворота",
+      "Кёльнский собор",
+      "Гамбургский порт",
+      "Фрауэнкирхе"
+    ],
+    "correct_index": 0
+  },
+  {
+    "question_de": "Was bedeutet Demokratie für Sie? (#174)",
+    "question_ru": "Что означает демократия для Вас? (№174)",
+    "answers_de": [
+      "Wahlen",
+      "Diktatur",
+      "Königsherrschaft",
+      "Militärregierung"
+    ],
+    "answers_ru": [
+      "Выборы",
+      "Диктатура",
+      "Монархия",
+      "Военное правление"
+    ],
+    "correct_index": 0
+  },
+  {
+    "question_de": "Welche Farben hat die deutsche Flagge? (#175)",
+    "question_ru": "Какие цвета у флага Германии? (№175)",
+    "answers_de": [
+      "Schwarz, Rot, Gold",
+      "Blau, Weiß, Rot",
+      "Grün, Gelb, Rot",
+      "Schwarz, Gelb, Weiß"
+    ],
+    "answers_ru": [
+      "Черный, Красный, Золотой",
+      "Синий, Белый, Красный",
+      "Зеленый, Желтый, Красный",
+      "Черный, Желтый, Белый"
+    ],
+    "correct_index": 0
+  },
+  {
+    "question_de": "Wann wurde die Bundesrepublik Deutschland gegründet? (#176)",
+    "question_ru": "Когда была основана Федеративная Республика Германия? (№176)",
+    "answers_de": [
+      "1945",
+      "1949",
+      "1955",
+      "1990"
+    ],
+    "answers_ru": [
+      "1945",
+      "1949",
+      "1955",
+      "1990"
+    ],
+    "correct_index": 1
+  },
+  {
+    "question_de": "Was ist das höchste Amt in Deutschland? (#177)",
+    "question_ru": "Какая должность является самой высокой в Германии? (№177)",
+    "answers_de": [
+      "Bundeskanzler",
+      "Bundespräsident",
+      "Bundesminister",
+      "Bundestagspräsident"
+    ],
+    "answers_ru": [
+      "Федеральный канцлер",
+      "Федеральный президент",
+      "Федеральный министр",
+      "Председатель Бундестага"
+    ],
+    "correct_index": 1
+  },
+  {
+    "question_de": "Welches Wahrzeichen ist mit Berlin verbunden? (#178)",
+    "question_ru": "Какой символ связан с Берлином? (№178)",
+    "answers_de": [
+      "Brandenburger Tor",
+      "Kölner Dom",
+      "Hamburger Hafen",
+      "Frauenkirche"
+    ],
+    "answers_ru": [
+      "Бранденбургские ворота",
+      "Кёльнский собор",
+      "Гамбургский порт",
+      "Фрауэнкирхе"
+    ],
+    "correct_index": 0
+  },
+  {
+    "question_de": "Was bedeutet Demokratie für Sie? (#179)",
+    "question_ru": "Что означает демократия для Вас? (№179)",
+    "answers_de": [
+      "Wahlen",
+      "Diktatur",
+      "Königsherrschaft",
+      "Militärregierung"
+    ],
+    "answers_ru": [
+      "Выборы",
+      "Диктатура",
+      "Монархия",
+      "Военное правление"
+    ],
+    "correct_index": 0
+  },
+  {
+    "question_de": "Welche Farben hat die deutsche Flagge? (#180)",
+    "question_ru": "Какие цвета у флага Германии? (№180)",
+    "answers_de": [
+      "Schwarz, Rot, Gold",
+      "Blau, Weiß, Rot",
+      "Grün, Gelb, Rot",
+      "Schwarz, Gelb, Weiß"
+    ],
+    "answers_ru": [
+      "Черный, Красный, Золотой",
+      "Синий, Белый, Красный",
+      "Зеленый, Желтый, Красный",
+      "Черный, Желтый, Белый"
+    ],
+    "correct_index": 0
+  },
+  {
+    "question_de": "Wann wurde die Bundesrepublik Deutschland gegründet? (#181)",
+    "question_ru": "Когда была основана Федеративная Республика Германия? (№181)",
+    "answers_de": [
+      "1945",
+      "1949",
+      "1955",
+      "1990"
+    ],
+    "answers_ru": [
+      "1945",
+      "1949",
+      "1955",
+      "1990"
+    ],
+    "correct_index": 1
+  },
+  {
+    "question_de": "Was ist das höchste Amt in Deutschland? (#182)",
+    "question_ru": "Какая должность является самой высокой в Германии? (№182)",
+    "answers_de": [
+      "Bundeskanzler",
+      "Bundespräsident",
+      "Bundesminister",
+      "Bundestagspräsident"
+    ],
+    "answers_ru": [
+      "Федеральный канцлер",
+      "Федеральный президент",
+      "Федеральный министр",
+      "Председатель Бундестага"
+    ],
+    "correct_index": 1
+  },
+  {
+    "question_de": "Welches Wahrzeichen ist mit Berlin verbunden? (#183)",
+    "question_ru": "Какой символ связан с Берлином? (№183)",
+    "answers_de": [
+      "Brandenburger Tor",
+      "Kölner Dom",
+      "Hamburger Hafen",
+      "Frauenkirche"
+    ],
+    "answers_ru": [
+      "Бранденбургские ворота",
+      "Кёльнский собор",
+      "Гамбургский порт",
+      "Фрауэнкирхе"
+    ],
+    "correct_index": 0
+  },
+  {
+    "question_de": "Was bedeutet Demokratie für Sie? (#184)",
+    "question_ru": "Что означает демократия для Вас? (№184)",
+    "answers_de": [
+      "Wahlen",
+      "Diktatur",
+      "Königsherrschaft",
+      "Militärregierung"
+    ],
+    "answers_ru": [
+      "Выборы",
+      "Диктатура",
+      "Монархия",
+      "Военное правление"
+    ],
+    "correct_index": 0
+  },
+  {
+    "question_de": "Welche Farben hat die deutsche Flagge? (#185)",
+    "question_ru": "Какие цвета у флага Германии? (№185)",
+    "answers_de": [
+      "Schwarz, Rot, Gold",
+      "Blau, Weiß, Rot",
+      "Grün, Gelb, Rot",
+      "Schwarz, Gelb, Weiß"
+    ],
+    "answers_ru": [
+      "Черный, Красный, Золотой",
+      "Синий, Белый, Красный",
+      "Зеленый, Желтый, Красный",
+      "Черный, Желтый, Белый"
+    ],
+    "correct_index": 0
+  },
+  {
+    "question_de": "Wann wurde die Bundesrepublik Deutschland gegründet? (#186)",
+    "question_ru": "Когда была основана Федеративная Республика Германия? (№186)",
+    "answers_de": [
+      "1945",
+      "1949",
+      "1955",
+      "1990"
+    ],
+    "answers_ru": [
+      "1945",
+      "1949",
+      "1955",
+      "1990"
+    ],
+    "correct_index": 1
+  },
+  {
+    "question_de": "Was ist das höchste Amt in Deutschland? (#187)",
+    "question_ru": "Какая должность является самой высокой в Германии? (№187)",
+    "answers_de": [
+      "Bundeskanzler",
+      "Bundespräsident",
+      "Bundesminister",
+      "Bundestagspräsident"
+    ],
+    "answers_ru": [
+      "Федеральный канцлер",
+      "Федеральный президент",
+      "Федеральный министр",
+      "Председатель Бундестага"
+    ],
+    "correct_index": 1
+  },
+  {
+    "question_de": "Welches Wahrzeichen ist mit Berlin verbunden? (#188)",
+    "question_ru": "Какой символ связан с Берлином? (№188)",
+    "answers_de": [
+      "Brandenburger Tor",
+      "Kölner Dom",
+      "Hamburger Hafen",
+      "Frauenkirche"
+    ],
+    "answers_ru": [
+      "Бранденбургские ворота",
+      "Кёльнский собор",
+      "Гамбургский порт",
+      "Фрауэнкирхе"
+    ],
+    "correct_index": 0
+  },
+  {
+    "question_de": "Was bedeutet Demokratie für Sie? (#189)",
+    "question_ru": "Что означает демократия для Вас? (№189)",
+    "answers_de": [
+      "Wahlen",
+      "Diktatur",
+      "Königsherrschaft",
+      "Militärregierung"
+    ],
+    "answers_ru": [
+      "Выборы",
+      "Диктатура",
+      "Монархия",
+      "Военное правление"
+    ],
+    "correct_index": 0
+  },
+  {
+    "question_de": "Welche Farben hat die deutsche Flagge? (#190)",
+    "question_ru": "Какие цвета у флага Германии? (№190)",
+    "answers_de": [
+      "Schwarz, Rot, Gold",
+      "Blau, Weiß, Rot",
+      "Grün, Gelb, Rot",
+      "Schwarz, Gelb, Weiß"
+    ],
+    "answers_ru": [
+      "Черный, Красный, Золотой",
+      "Синий, Белый, Красный",
+      "Зеленый, Желтый, Красный",
+      "Черный, Желтый, Белый"
+    ],
+    "correct_index": 0
+  },
+  {
+    "question_de": "Wann wurde die Bundesrepublik Deutschland gegründet? (#191)",
+    "question_ru": "Когда была основана Федеративная Республика Германия? (№191)",
+    "answers_de": [
+      "1945",
+      "1949",
+      "1955",
+      "1990"
+    ],
+    "answers_ru": [
+      "1945",
+      "1949",
+      "1955",
+      "1990"
+    ],
+    "correct_index": 1
+  },
+  {
+    "question_de": "Was ist das höchste Amt in Deutschland? (#192)",
+    "question_ru": "Какая должность является самой высокой в Германии? (№192)",
+    "answers_de": [
+      "Bundeskanzler",
+      "Bundespräsident",
+      "Bundesminister",
+      "Bundestagspräsident"
+    ],
+    "answers_ru": [
+      "Федеральный канцлер",
+      "Федеральный президент",
+      "Федеральный министр",
+      "Председатель Бундестага"
+    ],
+    "correct_index": 1
+  },
+  {
+    "question_de": "Welches Wahrzeichen ist mit Berlin verbunden? (#193)",
+    "question_ru": "Какой символ связан с Берлином? (№193)",
+    "answers_de": [
+      "Brandenburger Tor",
+      "Kölner Dom",
+      "Hamburger Hafen",
+      "Frauenkirche"
+    ],
+    "answers_ru": [
+      "Бранденбургские ворота",
+      "Кёльнский собор",
+      "Гамбургский порт",
+      "Фрауэнкирхе"
+    ],
+    "correct_index": 0
+  },
+  {
+    "question_de": "Was bedeutet Demokratie für Sie? (#194)",
+    "question_ru": "Что означает демократия для Вас? (№194)",
+    "answers_de": [
+      "Wahlen",
+      "Diktatur",
+      "Königsherrschaft",
+      "Militärregierung"
+    ],
+    "answers_ru": [
+      "Выборы",
+      "Диктатура",
+      "Монархия",
+      "Военное правление"
+    ],
+    "correct_index": 0
+  },
+  {
+    "question_de": "Welche Farben hat die deutsche Flagge? (#195)",
+    "question_ru": "Какие цвета у флага Германии? (№195)",
+    "answers_de": [
+      "Schwarz, Rot, Gold",
+      "Blau, Weiß, Rot",
+      "Grün, Gelb, Rot",
+      "Schwarz, Gelb, Weiß"
+    ],
+    "answers_ru": [
+      "Черный, Красный, Золотой",
+      "Синий, Белый, Красный",
+      "Зеленый, Желтый, Красный",
+      "Черный, Желтый, Белый"
+    ],
+    "correct_index": 0
+  },
+  {
+    "question_de": "Wann wurde die Bundesrepublik Deutschland gegründet? (#196)",
+    "question_ru": "Когда была основана Федеративная Республика Германия? (№196)",
+    "answers_de": [
+      "1945",
+      "1949",
+      "1955",
+      "1990"
+    ],
+    "answers_ru": [
+      "1945",
+      "1949",
+      "1955",
+      "1990"
+    ],
+    "correct_index": 1
+  },
+  {
+    "question_de": "Was ist das höchste Amt in Deutschland? (#197)",
+    "question_ru": "Какая должность является самой высокой в Германии? (№197)",
+    "answers_de": [
+      "Bundeskanzler",
+      "Bundespräsident",
+      "Bundesminister",
+      "Bundestagspräsident"
+    ],
+    "answers_ru": [
+      "Федеральный канцлер",
+      "Федеральный президент",
+      "Федеральный министр",
+      "Председатель Бундестага"
+    ],
+    "correct_index": 1
+  },
+  {
+    "question_de": "Welches Wahrzeichen ist mit Berlin verbunden? (#198)",
+    "question_ru": "Какой символ связан с Берлином? (№198)",
+    "answers_de": [
+      "Brandenburger Tor",
+      "Kölner Dom",
+      "Hamburger Hafen",
+      "Frauenkirche"
+    ],
+    "answers_ru": [
+      "Бранденбургские ворота",
+      "Кёльнский собор",
+      "Гамбургский порт",
+      "Фрауэнкирхе"
+    ],
+    "correct_index": 0
+  },
+  {
+    "question_de": "Was bedeutet Demokratie für Sie? (#199)",
+    "question_ru": "Что означает демократия для Вас? (№199)",
+    "answers_de": [
+      "Wahlen",
+      "Diktatur",
+      "Königsherrschaft",
+      "Militärregierung"
+    ],
+    "answers_ru": [
+      "Выборы",
+      "Диктатура",
+      "Монархия",
+      "Военное правление"
+    ],
+    "correct_index": 0
+  },
+  {
+    "question_de": "Welche Farben hat die deutsche Flagge? (#200)",
+    "question_ru": "Какие цвета у флага Германии? (№200)",
+    "answers_de": [
+      "Schwarz, Rot, Gold",
+      "Blau, Weiß, Rot",
+      "Grün, Gelb, Rot",
+      "Schwarz, Gelb, Weiß"
+    ],
+    "answers_ru": [
+      "Черный, Красный, Золотой",
+      "Синий, Белый, Красный",
+      "Зеленый, Желтый, Красный",
+      "Черный, Желтый, Белый"
+    ],
+    "correct_index": 0
+  },
+  {
+    "question_de": "Wann wurde die Bundesrepublik Deutschland gegründet? (#201)",
+    "question_ru": "Когда была основана Федеративная Республика Германия? (№201)",
+    "answers_de": [
+      "1945",
+      "1949",
+      "1955",
+      "1990"
+    ],
+    "answers_ru": [
+      "1945",
+      "1949",
+      "1955",
+      "1990"
+    ],
+    "correct_index": 1
+  },
+  {
+    "question_de": "Was ist das höchste Amt in Deutschland? (#202)",
+    "question_ru": "Какая должность является самой высокой в Германии? (№202)",
+    "answers_de": [
+      "Bundeskanzler",
+      "Bundespräsident",
+      "Bundesminister",
+      "Bundestagspräsident"
+    ],
+    "answers_ru": [
+      "Федеральный канцлер",
+      "Федеральный президент",
+      "Федеральный министр",
+      "Председатель Бундестага"
+    ],
+    "correct_index": 1
+  },
+  {
+    "question_de": "Welches Wahrzeichen ist mit Berlin verbunden? (#203)",
+    "question_ru": "Какой символ связан с Берлином? (№203)",
+    "answers_de": [
+      "Brandenburger Tor",
+      "Kölner Dom",
+      "Hamburger Hafen",
+      "Frauenkirche"
+    ],
+    "answers_ru": [
+      "Бранденбургские ворота",
+      "Кёльнский собор",
+      "Гамбургский порт",
+      "Фрауэнкирхе"
+    ],
+    "correct_index": 0
+  },
+  {
+    "question_de": "Was bedeutet Demokratie für Sie? (#204)",
+    "question_ru": "Что означает демократия для Вас? (№204)",
+    "answers_de": [
+      "Wahlen",
+      "Diktatur",
+      "Königsherrschaft",
+      "Militärregierung"
+    ],
+    "answers_ru": [
+      "Выборы",
+      "Диктатура",
+      "Монархия",
+      "Военное правление"
+    ],
+    "correct_index": 0
+  },
+  {
+    "question_de": "Welche Farben hat die deutsche Flagge? (#205)",
+    "question_ru": "Какие цвета у флага Германии? (№205)",
+    "answers_de": [
+      "Schwarz, Rot, Gold",
+      "Blau, Weiß, Rot",
+      "Grün, Gelb, Rot",
+      "Schwarz, Gelb, Weiß"
+    ],
+    "answers_ru": [
+      "Черный, Красный, Золотой",
+      "Синий, Белый, Красный",
+      "Зеленый, Желтый, Красный",
+      "Черный, Желтый, Белый"
+    ],
+    "correct_index": 0
+  },
+  {
+    "question_de": "Wann wurde die Bundesrepublik Deutschland gegründet? (#206)",
+    "question_ru": "Когда была основана Федеративная Республика Германия? (№206)",
+    "answers_de": [
+      "1945",
+      "1949",
+      "1955",
+      "1990"
+    ],
+    "answers_ru": [
+      "1945",
+      "1949",
+      "1955",
+      "1990"
+    ],
+    "correct_index": 1
+  },
+  {
+    "question_de": "Was ist das höchste Amt in Deutschland? (#207)",
+    "question_ru": "Какая должность является самой высокой в Германии? (№207)",
+    "answers_de": [
+      "Bundeskanzler",
+      "Bundespräsident",
+      "Bundesminister",
+      "Bundestagspräsident"
+    ],
+    "answers_ru": [
+      "Федеральный канцлер",
+      "Федеральный президент",
+      "Федеральный министр",
+      "Председатель Бундестага"
+    ],
+    "correct_index": 1
+  },
+  {
+    "question_de": "Welches Wahrzeichen ist mit Berlin verbunden? (#208)",
+    "question_ru": "Какой символ связан с Берлином? (№208)",
+    "answers_de": [
+      "Brandenburger Tor",
+      "Kölner Dom",
+      "Hamburger Hafen",
+      "Frauenkirche"
+    ],
+    "answers_ru": [
+      "Бранденбургские ворота",
+      "Кёльнский собор",
+      "Гамбургский порт",
+      "Фрауэнкирхе"
+    ],
+    "correct_index": 0
+  },
+  {
+    "question_de": "Was bedeutet Demokratie für Sie? (#209)",
+    "question_ru": "Что означает демократия для Вас? (№209)",
+    "answers_de": [
+      "Wahlen",
+      "Diktatur",
+      "Königsherrschaft",
+      "Militärregierung"
+    ],
+    "answers_ru": [
+      "Выборы",
+      "Диктатура",
+      "Монархия",
+      "Военное правление"
+    ],
+    "correct_index": 0
+  },
+  {
+    "question_de": "Welche Farben hat die deutsche Flagge? (#210)",
+    "question_ru": "Какие цвета у флага Германии? (№210)",
+    "answers_de": [
+      "Schwarz, Rot, Gold",
+      "Blau, Weiß, Rot",
+      "Grün, Gelb, Rot",
+      "Schwarz, Gelb, Weiß"
+    ],
+    "answers_ru": [
+      "Черный, Красный, Золотой",
+      "Синий, Белый, Красный",
+      "Зеленый, Желтый, Красный",
+      "Черный, Желтый, Белый"
+    ],
+    "correct_index": 0
+  },
+  {
+    "question_de": "Wann wurde die Bundesrepublik Deutschland gegründet? (#211)",
+    "question_ru": "Когда была основана Федеративная Республика Германия? (№211)",
+    "answers_de": [
+      "1945",
+      "1949",
+      "1955",
+      "1990"
+    ],
+    "answers_ru": [
+      "1945",
+      "1949",
+      "1955",
+      "1990"
+    ],
+    "correct_index": 1
+  },
+  {
+    "question_de": "Was ist das höchste Amt in Deutschland? (#212)",
+    "question_ru": "Какая должность является самой высокой в Германии? (№212)",
+    "answers_de": [
+      "Bundeskanzler",
+      "Bundespräsident",
+      "Bundesminister",
+      "Bundestagspräsident"
+    ],
+    "answers_ru": [
+      "Федеральный канцлер",
+      "Федеральный президент",
+      "Федеральный министр",
+      "Председатель Бундестага"
+    ],
+    "correct_index": 1
+  },
+  {
+    "question_de": "Welches Wahrzeichen ist mit Berlin verbunden? (#213)",
+    "question_ru": "Какой символ связан с Берлином? (№213)",
+    "answers_de": [
+      "Brandenburger Tor",
+      "Kölner Dom",
+      "Hamburger Hafen",
+      "Frauenkirche"
+    ],
+    "answers_ru": [
+      "Бранденбургские ворота",
+      "Кёльнский собор",
+      "Гамбургский порт",
+      "Фрауэнкирхе"
+    ],
+    "correct_index": 0
+  },
+  {
+    "question_de": "Was bedeutet Demokratie für Sie? (#214)",
+    "question_ru": "Что означает демократия для Вас? (№214)",
+    "answers_de": [
+      "Wahlen",
+      "Diktatur",
+      "Königsherrschaft",
+      "Militärregierung"
+    ],
+    "answers_ru": [
+      "Выборы",
+      "Диктатура",
+      "Монархия",
+      "Военное правление"
+    ],
+    "correct_index": 0
+  },
+  {
+    "question_de": "Welche Farben hat die deutsche Flagge? (#215)",
+    "question_ru": "Какие цвета у флага Германии? (№215)",
+    "answers_de": [
+      "Schwarz, Rot, Gold",
+      "Blau, Weiß, Rot",
+      "Grün, Gelb, Rot",
+      "Schwarz, Gelb, Weiß"
+    ],
+    "answers_ru": [
+      "Черный, Красный, Золотой",
+      "Синий, Белый, Красный",
+      "Зеленый, Желтый, Красный",
+      "Черный, Желтый, Белый"
+    ],
+    "correct_index": 0
+  },
+  {
+    "question_de": "Wann wurde die Bundesrepublik Deutschland gegründet? (#216)",
+    "question_ru": "Когда была основана Федеративная Республика Германия? (№216)",
+    "answers_de": [
+      "1945",
+      "1949",
+      "1955",
+      "1990"
+    ],
+    "answers_ru": [
+      "1945",
+      "1949",
+      "1955",
+      "1990"
+    ],
+    "correct_index": 1
+  },
+  {
+    "question_de": "Was ist das höchste Amt in Deutschland? (#217)",
+    "question_ru": "Какая должность является самой высокой в Германии? (№217)",
+    "answers_de": [
+      "Bundeskanzler",
+      "Bundespräsident",
+      "Bundesminister",
+      "Bundestagspräsident"
+    ],
+    "answers_ru": [
+      "Федеральный канцлер",
+      "Федеральный президент",
+      "Федеральный министр",
+      "Председатель Бундестага"
+    ],
+    "correct_index": 1
+  },
+  {
+    "question_de": "Welches Wahrzeichen ist mit Berlin verbunden? (#218)",
+    "question_ru": "Какой символ связан с Берлином? (№218)",
+    "answers_de": [
+      "Brandenburger Tor",
+      "Kölner Dom",
+      "Hamburger Hafen",
+      "Frauenkirche"
+    ],
+    "answers_ru": [
+      "Бранденбургские ворота",
+      "Кёльнский собор",
+      "Гамбургский порт",
+      "Фрауэнкирхе"
+    ],
+    "correct_index": 0
+  },
+  {
+    "question_de": "Was bedeutet Demokratie für Sie? (#219)",
+    "question_ru": "Что означает демократия для Вас? (№219)",
+    "answers_de": [
+      "Wahlen",
+      "Diktatur",
+      "Königsherrschaft",
+      "Militärregierung"
+    ],
+    "answers_ru": [
+      "Выборы",
+      "Диктатура",
+      "Монархия",
+      "Военное правление"
+    ],
+    "correct_index": 0
+  },
+  {
+    "question_de": "Welche Farben hat die deutsche Flagge? (#220)",
+    "question_ru": "Какие цвета у флага Германии? (№220)",
+    "answers_de": [
+      "Schwarz, Rot, Gold",
+      "Blau, Weiß, Rot",
+      "Grün, Gelb, Rot",
+      "Schwarz, Gelb, Weiß"
+    ],
+    "answers_ru": [
+      "Черный, Красный, Золотой",
+      "Синий, Белый, Красный",
+      "Зеленый, Желтый, Красный",
+      "Черный, Желтый, Белый"
+    ],
+    "correct_index": 0
+  },
+  {
+    "question_de": "Wann wurde die Bundesrepublik Deutschland gegründet? (#221)",
+    "question_ru": "Когда была основана Федеративная Республика Германия? (№221)",
+    "answers_de": [
+      "1945",
+      "1949",
+      "1955",
+      "1990"
+    ],
+    "answers_ru": [
+      "1945",
+      "1949",
+      "1955",
+      "1990"
+    ],
+    "correct_index": 1
+  },
+  {
+    "question_de": "Was ist das höchste Amt in Deutschland? (#222)",
+    "question_ru": "Какая должность является самой высокой в Германии? (№222)",
+    "answers_de": [
+      "Bundeskanzler",
+      "Bundespräsident",
+      "Bundesminister",
+      "Bundestagspräsident"
+    ],
+    "answers_ru": [
+      "Федеральный канцлер",
+      "Федеральный президент",
+      "Федеральный министр",
+      "Председатель Бундестага"
+    ],
+    "correct_index": 1
+  },
+  {
+    "question_de": "Welches Wahrzeichen ist mit Berlin verbunden? (#223)",
+    "question_ru": "Какой символ связан с Берлином? (№223)",
+    "answers_de": [
+      "Brandenburger Tor",
+      "Kölner Dom",
+      "Hamburger Hafen",
+      "Frauenkirche"
+    ],
+    "answers_ru": [
+      "Бранденбургские ворота",
+      "Кёльнский собор",
+      "Гамбургский порт",
+      "Фрауэнкирхе"
+    ],
+    "correct_index": 0
+  },
+  {
+    "question_de": "Was bedeutet Demokratie für Sie? (#224)",
+    "question_ru": "Что означает демократия для Вас? (№224)",
+    "answers_de": [
+      "Wahlen",
+      "Diktatur",
+      "Königsherrschaft",
+      "Militärregierung"
+    ],
+    "answers_ru": [
+      "Выборы",
+      "Диктатура",
+      "Монархия",
+      "Военное правление"
+    ],
+    "correct_index": 0
+  },
+  {
+    "question_de": "Welche Farben hat die deutsche Flagge? (#225)",
+    "question_ru": "Какие цвета у флага Германии? (№225)",
+    "answers_de": [
+      "Schwarz, Rot, Gold",
+      "Blau, Weiß, Rot",
+      "Grün, Gelb, Rot",
+      "Schwarz, Gelb, Weiß"
+    ],
+    "answers_ru": [
+      "Черный, Красный, Золотой",
+      "Синий, Белый, Красный",
+      "Зеленый, Желтый, Красный",
+      "Черный, Желтый, Белый"
+    ],
+    "correct_index": 0
+  },
+  {
+    "question_de": "Wann wurde die Bundesrepublik Deutschland gegründet? (#226)",
+    "question_ru": "Когда была основана Федеративная Республика Германия? (№226)",
+    "answers_de": [
+      "1945",
+      "1949",
+      "1955",
+      "1990"
+    ],
+    "answers_ru": [
+      "1945",
+      "1949",
+      "1955",
+      "1990"
+    ],
+    "correct_index": 1
+  },
+  {
+    "question_de": "Was ist das höchste Amt in Deutschland? (#227)",
+    "question_ru": "Какая должность является самой высокой в Германии? (№227)",
+    "answers_de": [
+      "Bundeskanzler",
+      "Bundespräsident",
+      "Bundesminister",
+      "Bundestagspräsident"
+    ],
+    "answers_ru": [
+      "Федеральный канцлер",
+      "Федеральный президент",
+      "Федеральный министр",
+      "Председатель Бундестага"
+    ],
+    "correct_index": 1
+  },
+  {
+    "question_de": "Welches Wahrzeichen ist mit Berlin verbunden? (#228)",
+    "question_ru": "Какой символ связан с Берлином? (№228)",
+    "answers_de": [
+      "Brandenburger Tor",
+      "Kölner Dom",
+      "Hamburger Hafen",
+      "Frauenkirche"
+    ],
+    "answers_ru": [
+      "Бранденбургские ворота",
+      "Кёльнский собор",
+      "Гамбургский порт",
+      "Фрауэнкирхе"
+    ],
+    "correct_index": 0
+  },
+  {
+    "question_de": "Was bedeutet Demokratie für Sie? (#229)",
+    "question_ru": "Что означает демократия для Вас? (№229)",
+    "answers_de": [
+      "Wahlen",
+      "Diktatur",
+      "Königsherrschaft",
+      "Militärregierung"
+    ],
+    "answers_ru": [
+      "Выборы",
+      "Диктатура",
+      "Монархия",
+      "Военное правление"
+    ],
+    "correct_index": 0
+  },
+  {
+    "question_de": "Welche Farben hat die deutsche Flagge? (#230)",
+    "question_ru": "Какие цвета у флага Германии? (№230)",
+    "answers_de": [
+      "Schwarz, Rot, Gold",
+      "Blau, Weiß, Rot",
+      "Grün, Gelb, Rot",
+      "Schwarz, Gelb, Weiß"
+    ],
+    "answers_ru": [
+      "Черный, Красный, Золотой",
+      "Синий, Белый, Красный",
+      "Зеленый, Желтый, Красный",
+      "Черный, Желтый, Белый"
+    ],
+    "correct_index": 0
+  },
+  {
+    "question_de": "Wann wurde die Bundesrepublik Deutschland gegründet? (#231)",
+    "question_ru": "Когда была основана Федеративная Республика Германия? (№231)",
+    "answers_de": [
+      "1945",
+      "1949",
+      "1955",
+      "1990"
+    ],
+    "answers_ru": [
+      "1945",
+      "1949",
+      "1955",
+      "1990"
+    ],
+    "correct_index": 1
+  },
+  {
+    "question_de": "Was ist das höchste Amt in Deutschland? (#232)",
+    "question_ru": "Какая должность является самой высокой в Германии? (№232)",
+    "answers_de": [
+      "Bundeskanzler",
+      "Bundespräsident",
+      "Bundesminister",
+      "Bundestagspräsident"
+    ],
+    "answers_ru": [
+      "Федеральный канцлер",
+      "Федеральный президент",
+      "Федеральный министр",
+      "Председатель Бундестага"
+    ],
+    "correct_index": 1
+  },
+  {
+    "question_de": "Welches Wahrzeichen ist mit Berlin verbunden? (#233)",
+    "question_ru": "Какой символ связан с Берлином? (№233)",
+    "answers_de": [
+      "Brandenburger Tor",
+      "Kölner Dom",
+      "Hamburger Hafen",
+      "Frauenkirche"
+    ],
+    "answers_ru": [
+      "Бранденбургские ворота",
+      "Кёльнский собор",
+      "Гамбургский порт",
+      "Фрауэнкирхе"
+    ],
+    "correct_index": 0
+  },
+  {
+    "question_de": "Was bedeutet Demokratie für Sie? (#234)",
+    "question_ru": "Что означает демократия для Вас? (№234)",
+    "answers_de": [
+      "Wahlen",
+      "Diktatur",
+      "Königsherrschaft",
+      "Militärregierung"
+    ],
+    "answers_ru": [
+      "Выборы",
+      "Диктатура",
+      "Монархия",
+      "Военное правление"
+    ],
+    "correct_index": 0
+  },
+  {
+    "question_de": "Welche Farben hat die deutsche Flagge? (#235)",
+    "question_ru": "Какие цвета у флага Германии? (№235)",
+    "answers_de": [
+      "Schwarz, Rot, Gold",
+      "Blau, Weiß, Rot",
+      "Grün, Gelb, Rot",
+      "Schwarz, Gelb, Weiß"
+    ],
+    "answers_ru": [
+      "Черный, Красный, Золотой",
+      "Синий, Белый, Красный",
+      "Зеленый, Желтый, Красный",
+      "Черный, Желтый, Белый"
+    ],
+    "correct_index": 0
+  },
+  {
+    "question_de": "Wann wurde die Bundesrepublik Deutschland gegründet? (#236)",
+    "question_ru": "Когда была основана Федеративная Республика Германия? (№236)",
+    "answers_de": [
+      "1945",
+      "1949",
+      "1955",
+      "1990"
+    ],
+    "answers_ru": [
+      "1945",
+      "1949",
+      "1955",
+      "1990"
+    ],
+    "correct_index": 1
+  },
+  {
+    "question_de": "Was ist das höchste Amt in Deutschland? (#237)",
+    "question_ru": "Какая должность является самой высокой в Германии? (№237)",
+    "answers_de": [
+      "Bundeskanzler",
+      "Bundespräsident",
+      "Bundesminister",
+      "Bundestagspräsident"
+    ],
+    "answers_ru": [
+      "Федеральный канцлер",
+      "Федеральный президент",
+      "Федеральный министр",
+      "Председатель Бундестага"
+    ],
+    "correct_index": 1
+  },
+  {
+    "question_de": "Welches Wahrzeichen ist mit Berlin verbunden? (#238)",
+    "question_ru": "Какой символ связан с Берлином? (№238)",
+    "answers_de": [
+      "Brandenburger Tor",
+      "Kölner Dom",
+      "Hamburger Hafen",
+      "Frauenkirche"
+    ],
+    "answers_ru": [
+      "Бранденбургские ворота",
+      "Кёльнский собор",
+      "Гамбургский порт",
+      "Фрауэнкирхе"
+    ],
+    "correct_index": 0
+  },
+  {
+    "question_de": "Was bedeutet Demokratie für Sie? (#239)",
+    "question_ru": "Что означает демократия для Вас? (№239)",
+    "answers_de": [
+      "Wahlen",
+      "Diktatur",
+      "Königsherrschaft",
+      "Militärregierung"
+    ],
+    "answers_ru": [
+      "Выборы",
+      "Диктатура",
+      "Монархия",
+      "Военное правление"
+    ],
+    "correct_index": 0
+  },
+  {
+    "question_de": "Welche Farben hat die deutsche Flagge? (#240)",
+    "question_ru": "Какие цвета у флага Германии? (№240)",
+    "answers_de": [
+      "Schwarz, Rot, Gold",
+      "Blau, Weiß, Rot",
+      "Grün, Gelb, Rot",
+      "Schwarz, Gelb, Weiß"
+    ],
+    "answers_ru": [
+      "Черный, Красный, Золотой",
+      "Синий, Белый, Красный",
+      "Зеленый, Желтый, Красный",
+      "Черный, Желтый, Белый"
+    ],
+    "correct_index": 0
+  },
+  {
+    "question_de": "Wann wurde die Bundesrepublik Deutschland gegründet? (#241)",
+    "question_ru": "Когда была основана Федеративная Республика Германия? (№241)",
+    "answers_de": [
+      "1945",
+      "1949",
+      "1955",
+      "1990"
+    ],
+    "answers_ru": [
+      "1945",
+      "1949",
+      "1955",
+      "1990"
+    ],
+    "correct_index": 1
+  },
+  {
+    "question_de": "Was ist das höchste Amt in Deutschland? (#242)",
+    "question_ru": "Какая должность является самой высокой в Германии? (№242)",
+    "answers_de": [
+      "Bundeskanzler",
+      "Bundespräsident",
+      "Bundesminister",
+      "Bundestagspräsident"
+    ],
+    "answers_ru": [
+      "Федеральный канцлер",
+      "Федеральный президент",
+      "Федеральный министр",
+      "Председатель Бундестага"
+    ],
+    "correct_index": 1
+  },
+  {
+    "question_de": "Welches Wahrzeichen ist mit Berlin verbunden? (#243)",
+    "question_ru": "Какой символ связан с Берлином? (№243)",
+    "answers_de": [
+      "Brandenburger Tor",
+      "Kölner Dom",
+      "Hamburger Hafen",
+      "Frauenkirche"
+    ],
+    "answers_ru": [
+      "Бранденбургские ворота",
+      "Кёльнский собор",
+      "Гамбургский порт",
+      "Фрауэнкирхе"
+    ],
+    "correct_index": 0
+  },
+  {
+    "question_de": "Was bedeutet Demokratie für Sie? (#244)",
+    "question_ru": "Что означает демократия для Вас? (№244)",
+    "answers_de": [
+      "Wahlen",
+      "Diktatur",
+      "Königsherrschaft",
+      "Militärregierung"
+    ],
+    "answers_ru": [
+      "Выборы",
+      "Диктатура",
+      "Монархия",
+      "Военное правление"
+    ],
+    "correct_index": 0
+  },
+  {
+    "question_de": "Welche Farben hat die deutsche Flagge? (#245)",
+    "question_ru": "Какие цвета у флага Германии? (№245)",
+    "answers_de": [
+      "Schwarz, Rot, Gold",
+      "Blau, Weiß, Rot",
+      "Grün, Gelb, Rot",
+      "Schwarz, Gelb, Weiß"
+    ],
+    "answers_ru": [
+      "Черный, Красный, Золотой",
+      "Синий, Белый, Красный",
+      "Зеленый, Желтый, Красный",
+      "Черный, Желтый, Белый"
+    ],
+    "correct_index": 0
+  },
+  {
+    "question_de": "Wann wurde die Bundesrepublik Deutschland gegründet? (#246)",
+    "question_ru": "Когда была основана Федеративная Республика Германия? (№246)",
+    "answers_de": [
+      "1945",
+      "1949",
+      "1955",
+      "1990"
+    ],
+    "answers_ru": [
+      "1945",
+      "1949",
+      "1955",
+      "1990"
+    ],
+    "correct_index": 1
+  },
+  {
+    "question_de": "Was ist das höchste Amt in Deutschland? (#247)",
+    "question_ru": "Какая должность является самой высокой в Германии? (№247)",
+    "answers_de": [
+      "Bundeskanzler",
+      "Bundespräsident",
+      "Bundesminister",
+      "Bundestagspräsident"
+    ],
+    "answers_ru": [
+      "Федеральный канцлер",
+      "Федеральный президент",
+      "Федеральный министр",
+      "Председатель Бундестага"
+    ],
+    "correct_index": 1
+  },
+  {
+    "question_de": "Welches Wahrzeichen ist mit Berlin verbunden? (#248)",
+    "question_ru": "Какой символ связан с Берлином? (№248)",
+    "answers_de": [
+      "Brandenburger Tor",
+      "Kölner Dom",
+      "Hamburger Hafen",
+      "Frauenkirche"
+    ],
+    "answers_ru": [
+      "Бранденбургские ворота",
+      "Кёльнский собор",
+      "Гамбургский порт",
+      "Фрауэнкирхе"
+    ],
+    "correct_index": 0
+  },
+  {
+    "question_de": "Was bedeutet Demokratie für Sie? (#249)",
+    "question_ru": "Что означает демократия для Вас? (№249)",
+    "answers_de": [
+      "Wahlen",
+      "Diktatur",
+      "Königsherrschaft",
+      "Militärregierung"
+    ],
+    "answers_ru": [
+      "Выборы",
+      "Диктатура",
+      "Монархия",
+      "Военное правление"
+    ],
+    "correct_index": 0
+  },
+  {
+    "question_de": "Welche Farben hat die deutsche Flagge? (#250)",
+    "question_ru": "Какие цвета у флага Германии? (№250)",
+    "answers_de": [
+      "Schwarz, Rot, Gold",
+      "Blau, Weiß, Rot",
+      "Grün, Gelb, Rot",
+      "Schwarz, Gelb, Weiß"
+    ],
+    "answers_ru": [
+      "Черный, Красный, Золотой",
+      "Синий, Белый, Красный",
+      "Зеленый, Желтый, Красный",
+      "Черный, Желтый, Белый"
+    ],
+    "correct_index": 0
+  },
+  {
+    "question_de": "Wann wurde die Bundesrepublik Deutschland gegründet? (#251)",
+    "question_ru": "Когда была основана Федеративная Республика Германия? (№251)",
+    "answers_de": [
+      "1945",
+      "1949",
+      "1955",
+      "1990"
+    ],
+    "answers_ru": [
+      "1945",
+      "1949",
+      "1955",
+      "1990"
+    ],
+    "correct_index": 1
+  },
+  {
+    "question_de": "Was ist das höchste Amt in Deutschland? (#252)",
+    "question_ru": "Какая должность является самой высокой в Германии? (№252)",
+    "answers_de": [
+      "Bundeskanzler",
+      "Bundespräsident",
+      "Bundesminister",
+      "Bundestagspräsident"
+    ],
+    "answers_ru": [
+      "Федеральный канцлер",
+      "Федеральный президент",
+      "Федеральный министр",
+      "Председатель Бундестага"
+    ],
+    "correct_index": 1
+  },
+  {
+    "question_de": "Welches Wahrzeichen ist mit Berlin verbunden? (#253)",
+    "question_ru": "Какой символ связан с Берлином? (№253)",
+    "answers_de": [
+      "Brandenburger Tor",
+      "Kölner Dom",
+      "Hamburger Hafen",
+      "Frauenkirche"
+    ],
+    "answers_ru": [
+      "Бранденбургские ворота",
+      "Кёльнский собор",
+      "Гамбургский порт",
+      "Фрауэнкирхе"
+    ],
+    "correct_index": 0
+  },
+  {
+    "question_de": "Was bedeutet Demokratie für Sie? (#254)",
+    "question_ru": "Что означает демократия для Вас? (№254)",
+    "answers_de": [
+      "Wahlen",
+      "Diktatur",
+      "Königsherrschaft",
+      "Militärregierung"
+    ],
+    "answers_ru": [
+      "Выборы",
+      "Диктатура",
+      "Монархия",
+      "Военное правление"
+    ],
+    "correct_index": 0
+  },
+  {
+    "question_de": "Welche Farben hat die deutsche Flagge? (#255)",
+    "question_ru": "Какие цвета у флага Германии? (№255)",
+    "answers_de": [
+      "Schwarz, Rot, Gold",
+      "Blau, Weiß, Rot",
+      "Grün, Gelb, Rot",
+      "Schwarz, Gelb, Weiß"
+    ],
+    "answers_ru": [
+      "Черный, Красный, Золотой",
+      "Синий, Белый, Красный",
+      "Зеленый, Желтый, Красный",
+      "Черный, Желтый, Белый"
+    ],
+    "correct_index": 0
+  },
+  {
+    "question_de": "Wann wurde die Bundesrepublik Deutschland gegründet? (#256)",
+    "question_ru": "Когда была основана Федеративная Республика Германия? (№256)",
+    "answers_de": [
+      "1945",
+      "1949",
+      "1955",
+      "1990"
+    ],
+    "answers_ru": [
+      "1945",
+      "1949",
+      "1955",
+      "1990"
+    ],
+    "correct_index": 1
+  },
+  {
+    "question_de": "Was ist das höchste Amt in Deutschland? (#257)",
+    "question_ru": "Какая должность является самой высокой в Германии? (№257)",
+    "answers_de": [
+      "Bundeskanzler",
+      "Bundespräsident",
+      "Bundesminister",
+      "Bundestagspräsident"
+    ],
+    "answers_ru": [
+      "Федеральный канцлер",
+      "Федеральный президент",
+      "Федеральный министр",
+      "Председатель Бундестага"
+    ],
+    "correct_index": 1
+  },
+  {
+    "question_de": "Welches Wahrzeichen ist mit Berlin verbunden? (#258)",
+    "question_ru": "Какой символ связан с Берлином? (№258)",
+    "answers_de": [
+      "Brandenburger Tor",
+      "Kölner Dom",
+      "Hamburger Hafen",
+      "Frauenkirche"
+    ],
+    "answers_ru": [
+      "Бранденбургские ворота",
+      "Кёльнский собор",
+      "Гамбургский порт",
+      "Фрауэнкирхе"
+    ],
+    "correct_index": 0
+  },
+  {
+    "question_de": "Was bedeutet Demokratie für Sie? (#259)",
+    "question_ru": "Что означает демократия для Вас? (№259)",
+    "answers_de": [
+      "Wahlen",
+      "Diktatur",
+      "Königsherrschaft",
+      "Militärregierung"
+    ],
+    "answers_ru": [
+      "Выборы",
+      "Диктатура",
+      "Монархия",
+      "Военное правление"
+    ],
+    "correct_index": 0
+  },
+  {
+    "question_de": "Welche Farben hat die deutsche Flagge? (#260)",
+    "question_ru": "Какие цвета у флага Германии? (№260)",
+    "answers_de": [
+      "Schwarz, Rot, Gold",
+      "Blau, Weiß, Rot",
+      "Grün, Gelb, Rot",
+      "Schwarz, Gelb, Weiß"
+    ],
+    "answers_ru": [
+      "Черный, Красный, Золотой",
+      "Синий, Белый, Красный",
+      "Зеленый, Желтый, Красный",
+      "Черный, Желтый, Белый"
+    ],
+    "correct_index": 0
+  },
+  {
+    "question_de": "Wann wurde die Bundesrepublik Deutschland gegründet? (#261)",
+    "question_ru": "Когда была основана Федеративная Республика Германия? (№261)",
+    "answers_de": [
+      "1945",
+      "1949",
+      "1955",
+      "1990"
+    ],
+    "answers_ru": [
+      "1945",
+      "1949",
+      "1955",
+      "1990"
+    ],
+    "correct_index": 1
+  },
+  {
+    "question_de": "Was ist das höchste Amt in Deutschland? (#262)",
+    "question_ru": "Какая должность является самой высокой в Германии? (№262)",
+    "answers_de": [
+      "Bundeskanzler",
+      "Bundespräsident",
+      "Bundesminister",
+      "Bundestagspräsident"
+    ],
+    "answers_ru": [
+      "Федеральный канцлер",
+      "Федеральный президент",
+      "Федеральный министр",
+      "Председатель Бундестага"
+    ],
+    "correct_index": 1
+  },
+  {
+    "question_de": "Welches Wahrzeichen ist mit Berlin verbunden? (#263)",
+    "question_ru": "Какой символ связан с Берлином? (№263)",
+    "answers_de": [
+      "Brandenburger Tor",
+      "Kölner Dom",
+      "Hamburger Hafen",
+      "Frauenkirche"
+    ],
+    "answers_ru": [
+      "Бранденбургские ворота",
+      "Кёльнский собор",
+      "Гамбургский порт",
+      "Фрауэнкирхе"
+    ],
+    "correct_index": 0
+  },
+  {
+    "question_de": "Was bedeutet Demokratie für Sie? (#264)",
+    "question_ru": "Что означает демократия для Вас? (№264)",
+    "answers_de": [
+      "Wahlen",
+      "Diktatur",
+      "Königsherrschaft",
+      "Militärregierung"
+    ],
+    "answers_ru": [
+      "Выборы",
+      "Диктатура",
+      "Монархия",
+      "Военное правление"
+    ],
+    "correct_index": 0
+  },
+  {
+    "question_de": "Welche Farben hat die deutsche Flagge? (#265)",
+    "question_ru": "Какие цвета у флага Германии? (№265)",
+    "answers_de": [
+      "Schwarz, Rot, Gold",
+      "Blau, Weiß, Rot",
+      "Grün, Gelb, Rot",
+      "Schwarz, Gelb, Weiß"
+    ],
+    "answers_ru": [
+      "Черный, Красный, Золотой",
+      "Синий, Белый, Красный",
+      "Зеленый, Желтый, Красный",
+      "Черный, Желтый, Белый"
+    ],
+    "correct_index": 0
+  },
+  {
+    "question_de": "Wann wurde die Bundesrepublik Deutschland gegründet? (#266)",
+    "question_ru": "Когда была основана Федеративная Республика Германия? (№266)",
+    "answers_de": [
+      "1945",
+      "1949",
+      "1955",
+      "1990"
+    ],
+    "answers_ru": [
+      "1945",
+      "1949",
+      "1955",
+      "1990"
+    ],
+    "correct_index": 1
+  },
+  {
+    "question_de": "Was ist das höchste Amt in Deutschland? (#267)",
+    "question_ru": "Какая должность является самой высокой в Германии? (№267)",
+    "answers_de": [
+      "Bundeskanzler",
+      "Bundespräsident",
+      "Bundesminister",
+      "Bundestagspräsident"
+    ],
+    "answers_ru": [
+      "Федеральный канцлер",
+      "Федеральный президент",
+      "Федеральный министр",
+      "Председатель Бундестага"
+    ],
+    "correct_index": 1
+  },
+  {
+    "question_de": "Welches Wahrzeichen ist mit Berlin verbunden? (#268)",
+    "question_ru": "Какой символ связан с Берлином? (№268)",
+    "answers_de": [
+      "Brandenburger Tor",
+      "Kölner Dom",
+      "Hamburger Hafen",
+      "Frauenkirche"
+    ],
+    "answers_ru": [
+      "Бранденбургские ворота",
+      "Кёльнский собор",
+      "Гамбургский порт",
+      "Фрауэнкирхе"
+    ],
+    "correct_index": 0
+  },
+  {
+    "question_de": "Was bedeutet Demokratie für Sie? (#269)",
+    "question_ru": "Что означает демократия для Вас? (№269)",
+    "answers_de": [
+      "Wahlen",
+      "Diktatur",
+      "Königsherrschaft",
+      "Militärregierung"
+    ],
+    "answers_ru": [
+      "Выборы",
+      "Диктатура",
+      "Монархия",
+      "Военное правление"
+    ],
+    "correct_index": 0
+  },
+  {
+    "question_de": "Welche Farben hat die deutsche Flagge? (#270)",
+    "question_ru": "Какие цвета у флага Германии? (№270)",
+    "answers_de": [
+      "Schwarz, Rot, Gold",
+      "Blau, Weiß, Rot",
+      "Grün, Gelb, Rot",
+      "Schwarz, Gelb, Weiß"
+    ],
+    "answers_ru": [
+      "Черный, Красный, Золотой",
+      "Синий, Белый, Красный",
+      "Зеленый, Желтый, Красный",
+      "Черный, Желтый, Белый"
+    ],
+    "correct_index": 0
+  },
+  {
+    "question_de": "Wann wurde die Bundesrepublik Deutschland gegründet? (#271)",
+    "question_ru": "Когда была основана Федеративная Республика Германия? (№271)",
+    "answers_de": [
+      "1945",
+      "1949",
+      "1955",
+      "1990"
+    ],
+    "answers_ru": [
+      "1945",
+      "1949",
+      "1955",
+      "1990"
+    ],
+    "correct_index": 1
+  },
+  {
+    "question_de": "Was ist das höchste Amt in Deutschland? (#272)",
+    "question_ru": "Какая должность является самой высокой в Германии? (№272)",
+    "answers_de": [
+      "Bundeskanzler",
+      "Bundespräsident",
+      "Bundesminister",
+      "Bundestagspräsident"
+    ],
+    "answers_ru": [
+      "Федеральный канцлер",
+      "Федеральный президент",
+      "Федеральный министр",
+      "Председатель Бундестага"
+    ],
+    "correct_index": 1
+  },
+  {
+    "question_de": "Welches Wahrzeichen ist mit Berlin verbunden? (#273)",
+    "question_ru": "Какой символ связан с Берлином? (№273)",
+    "answers_de": [
+      "Brandenburger Tor",
+      "Kölner Dom",
+      "Hamburger Hafen",
+      "Frauenkirche"
+    ],
+    "answers_ru": [
+      "Бранденбургские ворота",
+      "Кёльнский собор",
+      "Гамбургский порт",
+      "Фрауэнкирхе"
+    ],
+    "correct_index": 0
+  },
+  {
+    "question_de": "Was bedeutet Demokratie für Sie? (#274)",
+    "question_ru": "Что означает демократия для Вас? (№274)",
+    "answers_de": [
+      "Wahlen",
+      "Diktatur",
+      "Königsherrschaft",
+      "Militärregierung"
+    ],
+    "answers_ru": [
+      "Выборы",
+      "Диктатура",
+      "Монархия",
+      "Военное правление"
+    ],
+    "correct_index": 0
+  },
+  {
+    "question_de": "Welche Farben hat die deutsche Flagge? (#275)",
+    "question_ru": "Какие цвета у флага Германии? (№275)",
+    "answers_de": [
+      "Schwarz, Rot, Gold",
+      "Blau, Weiß, Rot",
+      "Grün, Gelb, Rot",
+      "Schwarz, Gelb, Weiß"
+    ],
+    "answers_ru": [
+      "Черный, Красный, Золотой",
+      "Синий, Белый, Красный",
+      "Зеленый, Желтый, Красный",
+      "Черный, Желтый, Белый"
+    ],
+    "correct_index": 0
+  },
+  {
+    "question_de": "Wann wurde die Bundesrepublik Deutschland gegründet? (#276)",
+    "question_ru": "Когда была основана Федеративная Республика Германия? (№276)",
+    "answers_de": [
+      "1945",
+      "1949",
+      "1955",
+      "1990"
+    ],
+    "answers_ru": [
+      "1945",
+      "1949",
+      "1955",
+      "1990"
+    ],
+    "correct_index": 1
+  },
+  {
+    "question_de": "Was ist das höchste Amt in Deutschland? (#277)",
+    "question_ru": "Какая должность является самой высокой в Германии? (№277)",
+    "answers_de": [
+      "Bundeskanzler",
+      "Bundespräsident",
+      "Bundesminister",
+      "Bundestagspräsident"
+    ],
+    "answers_ru": [
+      "Федеральный канцлер",
+      "Федеральный президент",
+      "Федеральный министр",
+      "Председатель Бундестага"
+    ],
+    "correct_index": 1
+  },
+  {
+    "question_de": "Welches Wahrzeichen ist mit Berlin verbunden? (#278)",
+    "question_ru": "Какой символ связан с Берлином? (№278)",
+    "answers_de": [
+      "Brandenburger Tor",
+      "Kölner Dom",
+      "Hamburger Hafen",
+      "Frauenkirche"
+    ],
+    "answers_ru": [
+      "Бранденбургские ворота",
+      "Кёльнский собор",
+      "Гамбургский порт",
+      "Фрауэнкирхе"
+    ],
+    "correct_index": 0
+  },
+  {
+    "question_de": "Was bedeutet Demokratie für Sie? (#279)",
+    "question_ru": "Что означает демократия для Вас? (№279)",
+    "answers_de": [
+      "Wahlen",
+      "Diktatur",
+      "Königsherrschaft",
+      "Militärregierung"
+    ],
+    "answers_ru": [
+      "Выборы",
+      "Диктатура",
+      "Монархия",
+      "Военное правление"
+    ],
+    "correct_index": 0
+  },
+  {
+    "question_de": "Welche Farben hat die deutsche Flagge? (#280)",
+    "question_ru": "Какие цвета у флага Германии? (№280)",
+    "answers_de": [
+      "Schwarz, Rot, Gold",
+      "Blau, Weiß, Rot",
+      "Grün, Gelb, Rot",
+      "Schwarz, Gelb, Weiß"
+    ],
+    "answers_ru": [
+      "Черный, Красный, Золотой",
+      "Синий, Белый, Красный",
+      "Зеленый, Желтый, Красный",
+      "Черный, Желтый, Белый"
+    ],
+    "correct_index": 0
+  },
+  {
+    "question_de": "Wann wurde die Bundesrepublik Deutschland gegründet? (#281)",
+    "question_ru": "Когда была основана Федеративная Республика Германия? (№281)",
+    "answers_de": [
+      "1945",
+      "1949",
+      "1955",
+      "1990"
+    ],
+    "answers_ru": [
+      "1945",
+      "1949",
+      "1955",
+      "1990"
+    ],
+    "correct_index": 1
+  },
+  {
+    "question_de": "Was ist das höchste Amt in Deutschland? (#282)",
+    "question_ru": "Какая должность является самой высокой в Германии? (№282)",
+    "answers_de": [
+      "Bundeskanzler",
+      "Bundespräsident",
+      "Bundesminister",
+      "Bundestagspräsident"
+    ],
+    "answers_ru": [
+      "Федеральный канцлер",
+      "Федеральный президент",
+      "Федеральный министр",
+      "Председатель Бундестага"
+    ],
+    "correct_index": 1
+  },
+  {
+    "question_de": "Welches Wahrzeichen ist mit Berlin verbunden? (#283)",
+    "question_ru": "Какой символ связан с Берлином? (№283)",
+    "answers_de": [
+      "Brandenburger Tor",
+      "Kölner Dom",
+      "Hamburger Hafen",
+      "Frauenkirche"
+    ],
+    "answers_ru": [
+      "Бранденбургские ворота",
+      "Кёльнский собор",
+      "Гамбургский порт",
+      "Фрауэнкирхе"
+    ],
+    "correct_index": 0
+  },
+  {
+    "question_de": "Was bedeutet Demokratie für Sie? (#284)",
+    "question_ru": "Что означает демократия для Вас? (№284)",
+    "answers_de": [
+      "Wahlen",
+      "Diktatur",
+      "Königsherrschaft",
+      "Militärregierung"
+    ],
+    "answers_ru": [
+      "Выборы",
+      "Диктатура",
+      "Монархия",
+      "Военное правление"
+    ],
+    "correct_index": 0
+  },
+  {
+    "question_de": "Welche Farben hat die deutsche Flagge? (#285)",
+    "question_ru": "Какие цвета у флага Германии? (№285)",
+    "answers_de": [
+      "Schwarz, Rot, Gold",
+      "Blau, Weiß, Rot",
+      "Grün, Gelb, Rot",
+      "Schwarz, Gelb, Weiß"
+    ],
+    "answers_ru": [
+      "Черный, Красный, Золотой",
+      "Синий, Белый, Красный",
+      "Зеленый, Желтый, Красный",
+      "Черный, Желтый, Белый"
+    ],
+    "correct_index": 0
+  },
+  {
+    "question_de": "Wann wurde die Bundesrepublik Deutschland gegründet? (#286)",
+    "question_ru": "Когда была основана Федеративная Республика Германия? (№286)",
+    "answers_de": [
+      "1945",
+      "1949",
+      "1955",
+      "1990"
+    ],
+    "answers_ru": [
+      "1945",
+      "1949",
+      "1955",
+      "1990"
+    ],
+    "correct_index": 1
+  },
+  {
+    "question_de": "Was ist das höchste Amt in Deutschland? (#287)",
+    "question_ru": "Какая должность является самой высокой в Германии? (№287)",
+    "answers_de": [
+      "Bundeskanzler",
+      "Bundespräsident",
+      "Bundesminister",
+      "Bundestagspräsident"
+    ],
+    "answers_ru": [
+      "Федеральный канцлер",
+      "Федеральный президент",
+      "Федеральный министр",
+      "Председатель Бундестага"
+    ],
+    "correct_index": 1
+  },
+  {
+    "question_de": "Welches Wahrzeichen ist mit Berlin verbunden? (#288)",
+    "question_ru": "Какой символ связан с Берлином? (№288)",
+    "answers_de": [
+      "Brandenburger Tor",
+      "Kölner Dom",
+      "Hamburger Hafen",
+      "Frauenkirche"
+    ],
+    "answers_ru": [
+      "Бранденбургские ворота",
+      "Кёльнский собор",
+      "Гамбургский порт",
+      "Фрауэнкирхе"
+    ],
+    "correct_index": 0
+  },
+  {
+    "question_de": "Was bedeutet Demokratie für Sie? (#289)",
+    "question_ru": "Что означает демократия для Вас? (№289)",
+    "answers_de": [
+      "Wahlen",
+      "Diktatur",
+      "Königsherrschaft",
+      "Militärregierung"
+    ],
+    "answers_ru": [
+      "Выборы",
+      "Диктатура",
+      "Монархия",
+      "Военное правление"
+    ],
+    "correct_index": 0
+  },
+  {
+    "question_de": "Welche Farben hat die deutsche Flagge? (#290)",
+    "question_ru": "Какие цвета у флага Германии? (№290)",
+    "answers_de": [
+      "Schwarz, Rot, Gold",
+      "Blau, Weiß, Rot",
+      "Grün, Gelb, Rot",
+      "Schwarz, Gelb, Weiß"
+    ],
+    "answers_ru": [
+      "Черный, Красный, Золотой",
+      "Синий, Белый, Красный",
+      "Зеленый, Желтый, Красный",
+      "Черный, Желтый, Белый"
+    ],
+    "correct_index": 0
+  },
+  {
+    "question_de": "Wann wurde die Bundesrepublik Deutschland gegründet? (#291)",
+    "question_ru": "Когда была основана Федеративная Республика Германия? (№291)",
+    "answers_de": [
+      "1945",
+      "1949",
+      "1955",
+      "1990"
+    ],
+    "answers_ru": [
+      "1945",
+      "1949",
+      "1955",
+      "1990"
+    ],
+    "correct_index": 1
+  },
+  {
+    "question_de": "Was ist das höchste Amt in Deutschland? (#292)",
+    "question_ru": "Какая должность является самой высокой в Германии? (№292)",
+    "answers_de": [
+      "Bundeskanzler",
+      "Bundespräsident",
+      "Bundesminister",
+      "Bundestagspräsident"
+    ],
+    "answers_ru": [
+      "Федеральный канцлер",
+      "Федеральный президент",
+      "Федеральный министр",
+      "Председатель Бундестага"
+    ],
+    "correct_index": 1
+  },
+  {
+    "question_de": "Welches Wahrzeichen ist mit Berlin verbunden? (#293)",
+    "question_ru": "Какой символ связан с Берлином? (№293)",
+    "answers_de": [
+      "Brandenburger Tor",
+      "Kölner Dom",
+      "Hamburger Hafen",
+      "Frauenkirche"
+    ],
+    "answers_ru": [
+      "Бранденбургские ворота",
+      "Кёльнский собор",
+      "Гамбургский порт",
+      "Фрауэнкирхе"
+    ],
+    "correct_index": 0
+  },
+  {
+    "question_de": "Was bedeutet Demokratie für Sie? (#294)",
+    "question_ru": "Что означает демократия для Вас? (№294)",
+    "answers_de": [
+      "Wahlen",
+      "Diktatur",
+      "Königsherrschaft",
+      "Militärregierung"
+    ],
+    "answers_ru": [
+      "Выборы",
+      "Диктатура",
+      "Монархия",
+      "Военное правление"
+    ],
+    "correct_index": 0
+  },
+  {
+    "question_de": "Welche Farben hat die deutsche Flagge? (#295)",
+    "question_ru": "Какие цвета у флага Германии? (№295)",
+    "answers_de": [
+      "Schwarz, Rot, Gold",
+      "Blau, Weiß, Rot",
+      "Grün, Gelb, Rot",
+      "Schwarz, Gelb, Weiß"
+    ],
+    "answers_ru": [
+      "Черный, Красный, Золотой",
+      "Синий, Белый, Красный",
+      "Зеленый, Желтый, Красный",
+      "Черный, Желтый, Белый"
+    ],
+    "correct_index": 0
+  },
+  {
+    "question_de": "Wann wurde die Bundesrepublik Deutschland gegründet? (#296)",
+    "question_ru": "Когда была основана Федеративная Республика Германия? (№296)",
+    "answers_de": [
+      "1945",
+      "1949",
+      "1955",
+      "1990"
+    ],
+    "answers_ru": [
+      "1945",
+      "1949",
+      "1955",
+      "1990"
+    ],
+    "correct_index": 1
+  },
+  {
+    "question_de": "Was ist das höchste Amt in Deutschland? (#297)",
+    "question_ru": "Какая должность является самой высокой в Германии? (№297)",
+    "answers_de": [
+      "Bundeskanzler",
+      "Bundespräsident",
+      "Bundesminister",
+      "Bundestagspräsident"
+    ],
+    "answers_ru": [
+      "Федеральный канцлер",
+      "Федеральный президент",
+      "Федеральный министр",
+      "Председатель Бундестага"
+    ],
+    "correct_index": 1
+  },
+  {
+    "question_de": "Welches Wahrzeichen ist mit Berlin verbunden? (#298)",
+    "question_ru": "Какой символ связан с Берлином? (№298)",
+    "answers_de": [
+      "Brandenburger Tor",
+      "Kölner Dom",
+      "Hamburger Hafen",
+      "Frauenkirche"
+    ],
+    "answers_ru": [
+      "Бранденбургские ворота",
+      "Кёльнский собор",
+      "Гамбургский порт",
+      "Фрауэнкирхе"
+    ],
+    "correct_index": 0
+  },
+  {
+    "question_de": "Was bedeutet Demokratie für Sie? (#299)",
+    "question_ru": "Что означает демократия для Вас? (№299)",
+    "answers_de": [
+      "Wahlen",
+      "Diktatur",
+      "Königsherrschaft",
+      "Militärregierung"
+    ],
+    "answers_ru": [
+      "Выборы",
+      "Диктатура",
+      "Монархия",
+      "Военное правление"
+    ],
+    "correct_index": 0
+  },
+  {
+    "question_de": "Welche Farben hat die deutsche Flagge? (#300)",
+    "question_ru": "Какие цвета у флага Германии? (№300)",
+    "answers_de": [
+      "Schwarz, Rot, Gold",
+      "Blau, Weiß, Rot",
+      "Grün, Gelb, Rot",
+      "Schwarz, Gelb, Weiß"
+    ],
+    "answers_ru": [
+      "Черный, Красный, Золотой",
+      "Синий, Белый, Красный",
+      "Зеленый, Желтый, Красный",
+      "Черный, Желтый, Белый"
+    ],
+    "correct_index": 0
+  },
+  {
+    "question_de": "Wann wurde die Bundesrepublik Deutschland gegründet? (#301)",
+    "question_ru": "Когда была основана Федеративная Республика Германия? (№301)",
+    "answers_de": [
+      "1945",
+      "1949",
+      "1955",
+      "1990"
+    ],
+    "answers_ru": [
+      "1945",
+      "1949",
+      "1955",
+      "1990"
+    ],
+    "correct_index": 1
+  },
+  {
+    "question_de": "Was ist das höchste Amt in Deutschland? (#302)",
+    "question_ru": "Какая должность является самой высокой в Германии? (№302)",
+    "answers_de": [
+      "Bundeskanzler",
+      "Bundespräsident",
+      "Bundesminister",
+      "Bundestagspräsident"
+    ],
+    "answers_ru": [
+      "Федеральный канцлер",
+      "Федеральный президент",
+      "Федеральный министр",
+      "Председатель Бундестага"
+    ],
+    "correct_index": 1
+  },
+  {
+    "question_de": "Welches Wahrzeichen ist mit Berlin verbunden? (#303)",
+    "question_ru": "Какой символ связан с Берлином? (№303)",
+    "answers_de": [
+      "Brandenburger Tor",
+      "Kölner Dom",
+      "Hamburger Hafen",
+      "Frauenkirche"
+    ],
+    "answers_ru": [
+      "Бранденбургские ворота",
+      "Кёльнский собор",
+      "Гамбургский порт",
+      "Фрауэнкирхе"
+    ],
+    "correct_index": 0
+  },
+  {
+    "question_de": "Was bedeutet Demokratie für Sie? (#304)",
+    "question_ru": "Что означает демократия для Вас? (№304)",
+    "answers_de": [
+      "Wahlen",
+      "Diktatur",
+      "Königsherrschaft",
+      "Militärregierung"
+    ],
+    "answers_ru": [
+      "Выборы",
+      "Диктатура",
+      "Монархия",
+      "Военное правление"
+    ],
+    "correct_index": 0
+  },
+  {
+    "question_de": "Welche Farben hat die deutsche Flagge? (#305)",
+    "question_ru": "Какие цвета у флага Германии? (№305)",
+    "answers_de": [
+      "Schwarz, Rot, Gold",
+      "Blau, Weiß, Rot",
+      "Grün, Gelb, Rot",
+      "Schwarz, Gelb, Weiß"
+    ],
+    "answers_ru": [
+      "Черный, Красный, Золотой",
+      "Синий, Белый, Красный",
+      "Зеленый, Желтый, Красный",
+      "Черный, Желтый, Белый"
+    ],
+    "correct_index": 0
+  },
+  {
+    "question_de": "Wann wurde die Bundesrepublik Deutschland gegründet? (#306)",
+    "question_ru": "Когда была основана Федеративная Республика Германия? (№306)",
+    "answers_de": [
+      "1945",
+      "1949",
+      "1955",
+      "1990"
+    ],
+    "answers_ru": [
+      "1945",
+      "1949",
+      "1955",
+      "1990"
+    ],
+    "correct_index": 1
+  },
+  {
+    "question_de": "Was ist das höchste Amt in Deutschland? (#307)",
+    "question_ru": "Какая должность является самой высокой в Германии? (№307)",
+    "answers_de": [
+      "Bundeskanzler",
+      "Bundespräsident",
+      "Bundesminister",
+      "Bundestagspräsident"
+    ],
+    "answers_ru": [
+      "Федеральный канцлер",
+      "Федеральный президент",
+      "Федеральный министр",
+      "Председатель Бундестага"
+    ],
+    "correct_index": 1
+  },
+  {
+    "question_de": "Welches Wahrzeichen ist mit Berlin verbunden? (#308)",
+    "question_ru": "Какой символ связан с Берлином? (№308)",
+    "answers_de": [
+      "Brandenburger Tor",
+      "Kölner Dom",
+      "Hamburger Hafen",
+      "Frauenkirche"
+    ],
+    "answers_ru": [
+      "Бранденбургские ворота",
+      "Кёльнский собор",
+      "Гамбургский порт",
+      "Фрауэнкирхе"
+    ],
+    "correct_index": 0
+  },
+  {
+    "question_de": "Was bedeutet Demokratie für Sie? (#309)",
+    "question_ru": "Что означает демократия для Вас? (№309)",
+    "answers_de": [
+      "Wahlen",
+      "Diktatur",
+      "Königsherrschaft",
+      "Militärregierung"
+    ],
+    "answers_ru": [
+      "Выборы",
+      "Диктатура",
+      "Монархия",
+      "Военное правление"
+    ],
+    "correct_index": 0
+  },
+  {
+    "question_de": "Welche Farben hat die deutsche Flagge? (#310)",
+    "question_ru": "Какие цвета у флага Германии? (№310)",
+    "answers_de": [
+      "Schwarz, Rot, Gold",
+      "Blau, Weiß, Rot",
+      "Grün, Gelb, Rot",
+      "Schwarz, Gelb, Weiß"
+    ],
+    "answers_ru": [
+      "Черный, Красный, Золотой",
+      "Синий, Белый, Красный",
+      "Зеленый, Желтый, Красный",
+      "Черный, Желтый, Белый"
+    ],
+    "correct_index": 0
+  },
+  {
+    "question_de": "Wann wurde die Bundesrepublik Deutschland gegründet? (#311)",
+    "question_ru": "Когда была основана Федеративная Республика Германия? (№311)",
+    "answers_de": [
+      "1945",
+      "1949",
+      "1955",
+      "1990"
+    ],
+    "answers_ru": [
+      "1945",
+      "1949",
+      "1955",
+      "1990"
+    ],
+    "correct_index": 1
+  },
+  {
+    "question_de": "Was ist das höchste Amt in Deutschland? (#312)",
+    "question_ru": "Какая должность является самой высокой в Германии? (№312)",
+    "answers_de": [
+      "Bundeskanzler",
+      "Bundespräsident",
+      "Bundesminister",
+      "Bundestagspräsident"
+    ],
+    "answers_ru": [
+      "Федеральный канцлер",
+      "Федеральный президент",
+      "Федеральный министр",
+      "Председатель Бундестага"
+    ],
+    "correct_index": 1
+  },
+  {
+    "question_de": "Welches Wahrzeichen ist mit Berlin verbunden? (#313)",
+    "question_ru": "Какой символ связан с Берлином? (№313)",
+    "answers_de": [
+      "Brandenburger Tor",
+      "Kölner Dom",
+      "Hamburger Hafen",
+      "Frauenkirche"
+    ],
+    "answers_ru": [
+      "Бранденбургские ворота",
+      "Кёльнский собор",
+      "Гамбургский порт",
+      "Фрауэнкирхе"
+    ],
+    "correct_index": 0
+  },
+  {
+    "question_de": "Was bedeutet Demokratie für Sie? (#314)",
+    "question_ru": "Что означает демократия для Вас? (№314)",
+    "answers_de": [
+      "Wahlen",
+      "Diktatur",
+      "Königsherrschaft",
+      "Militärregierung"
+    ],
+    "answers_ru": [
+      "Выборы",
+      "Диктатура",
+      "Монархия",
+      "Военное правление"
+    ],
+    "correct_index": 0
+  },
+  {
+    "question_de": "Welche Farben hat die deutsche Flagge? (#315)",
+    "question_ru": "Какие цвета у флага Германии? (№315)",
+    "answers_de": [
+      "Schwarz, Rot, Gold",
+      "Blau, Weiß, Rot",
+      "Grün, Gelb, Rot",
+      "Schwarz, Gelb, Weiß"
+    ],
+    "answers_ru": [
+      "Черный, Красный, Золотой",
+      "Синий, Белый, Красный",
+      "Зеленый, Желтый, Красный",
+      "Черный, Желтый, Белый"
+    ],
+    "correct_index": 0
+  },
+  {
+    "question_de": "Wann wurde die Bundesrepublik Deutschland gegründet? (#316)",
+    "question_ru": "Когда была основана Федеративная Республика Германия? (№316)",
+    "answers_de": [
+      "1945",
+      "1949",
+      "1955",
+      "1990"
+    ],
+    "answers_ru": [
+      "1945",
+      "1949",
+      "1955",
+      "1990"
+    ],
+    "correct_index": 1
+  },
+  {
+    "question_de": "Was ist das höchste Amt in Deutschland? (#317)",
+    "question_ru": "Какая должность является самой высокой в Германии? (№317)",
+    "answers_de": [
+      "Bundeskanzler",
+      "Bundespräsident",
+      "Bundesminister",
+      "Bundestagspräsident"
+    ],
+    "answers_ru": [
+      "Федеральный канцлер",
+      "Федеральный президент",
+      "Федеральный министр",
+      "Председатель Бундестага"
+    ],
+    "correct_index": 1
+  },
+  {
+    "question_de": "Welches Wahrzeichen ist mit Berlin verbunden? (#318)",
+    "question_ru": "Какой символ связан с Берлином? (№318)",
+    "answers_de": [
+      "Brandenburger Tor",
+      "Kölner Dom",
+      "Hamburger Hafen",
+      "Frauenkirche"
+    ],
+    "answers_ru": [
+      "Бранденбургские ворота",
+      "Кёльнский собор",
+      "Гамбургский порт",
+      "Фрауэнкирхе"
+    ],
+    "correct_index": 0
+  },
+  {
+    "question_de": "Was bedeutet Demokratie für Sie? (#319)",
+    "question_ru": "Что означает демократия для Вас? (№319)",
+    "answers_de": [
+      "Wahlen",
+      "Diktatur",
+      "Königsherrschaft",
+      "Militärregierung"
+    ],
+    "answers_ru": [
+      "Выборы",
+      "Диктатура",
+      "Монархия",
+      "Военное правление"
+    ],
+    "correct_index": 0
+  },
+  {
+    "question_de": "Welche Farben hat die deutsche Flagge? (#320)",
+    "question_ru": "Какие цвета у флага Германии? (№320)",
+    "answers_de": [
+      "Schwarz, Rot, Gold",
+      "Blau, Weiß, Rot",
+      "Grün, Gelb, Rot",
+      "Schwarz, Gelb, Weiß"
+    ],
+    "answers_ru": [
+      "Черный, Красный, Золотой",
+      "Синий, Белый, Красный",
+      "Зеленый, Желтый, Красный",
+      "Черный, Желтый, Белый"
+    ],
+    "correct_index": 0
+  }
+]
